@@ -1,0 +1,2 @@
+Package Name,Original Database Name,Original Path of Database,Table Name,Line ID,name,seq
+"(Package Name, com.snapchat.android)","(Original Database Name, durable_job)","(Original Path of Database, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.snapchat.android/databases/durable_job)","(Table Name, sqlite_sequence)","(Line ID, 1)","(name, DurableJob)","(seq, 4350)"

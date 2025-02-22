@@ -1,0 +1,2 @@
+Package Name,Original Database Name,Original Path of Database,Table Name,Line ID,name,seq
+"(Package Name, com.carfax.consumer)","(Original Database Name, ADBMobileDataCache.sqlite)","(Original Path of Database, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.carfax.consumer/cache/ADBMobileDataCache.sqlite)","(Table Name, sqlite_sequence)","(Line ID, 1)","(name, HITS)","(seq, 72)"

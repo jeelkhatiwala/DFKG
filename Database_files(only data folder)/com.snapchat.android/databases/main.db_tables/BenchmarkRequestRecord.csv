@@ -1,0 +1,2 @@
+Package Name,Original Database Name,Original Path of Database,Table Name,Line ID,_id,benchmarkId,expirationTsSec,hasBeenScheduled,benchmarkResult
+"(Package Name, com.snapchat.android)","(Original Database Name, main.db)","(Original Path of Database, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.snapchat.android/databases/main.db)","(Table Name, BenchmarkRequestRecord)","(Line ID, 1)","(_id, 1)","(benchmarkId, 18)","(expirationTsSec, 1619212865)","(hasBeenScheduled, 0)",

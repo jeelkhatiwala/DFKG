@@ -1,0 +1,3 @@
+Package Name,Original Database Name,Original Path of Database,Table Name,Line ID,name,seq
+"(Package Name, com.duckduckgo.mobile.android)","(Original Database Name, app.db)","(Original Path of Database, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.duckduckgo.mobile.android/databases/app.db)","(Table Name, sqlite_sequence)","(Line ID, 1)","(name, bookmarks)","(seq, 0)"
+"(Package Name, com.duckduckgo.mobile.android)","(Original Database Name, app.db)","(Original Path of Database, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.duckduckgo.mobile.android/databases/app.db)","(Table Name, sqlite_sequence)","(Line ID, 2)","(name, pixel_store)","(seq, 4)"

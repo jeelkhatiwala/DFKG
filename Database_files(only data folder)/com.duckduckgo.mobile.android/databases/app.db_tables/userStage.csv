@@ -1,0 +1,2 @@
+Package Name,Original Database Name,Original Path of Database,Table Name,Line ID,key,appStage
+"(Package Name, com.duckduckgo.mobile.android)","(Original Database Name, app.db)","(Original Path of Database, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.duckduckgo.mobile.android/databases/app.db)","(Table Name, userStage)","(Line ID, 1)","(key, 1)","(appStage, ESTABLISHED)"

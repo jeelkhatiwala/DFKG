@@ -1,0 +1,1 @@
+Package Name,Original Database Name,Original Path of Database,Table Name,Line ID,_id,device_id,sync_type,last_processed_msg_row_id,oldest_msg_row_id,sent_msgs_count,chunk_order,sent_bytes,last_chunk_timestamp,status,peer_msg_row_id,oldest_message_to_sync_row_id

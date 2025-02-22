@@ -1,0 +1,2 @@
+Package Name,Original Database Name,Original Path of Database,Table Name,Line ID,name,seq
+"(Package Name, com.tmobile.tuesdays)","(Original Database Name, 0QBR4KljRIewFwzcD6iz9g_ua_notification_channel_registry.db)","(Original Path of Database, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.tmobile.tuesdays/no_backup/com.urbanairship.databases/0QBR4KljRIewFwzcD6iz9g_ua_notification_channel_registry.db)","(Table Name, sqlite_sequence)","(Line ID, 1)","(name, notification_channels)","(seq, 414)"

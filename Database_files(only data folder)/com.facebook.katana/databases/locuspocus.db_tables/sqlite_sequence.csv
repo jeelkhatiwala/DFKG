@@ -1,0 +1,3 @@
+Package Name,Original Database Name,Original Path of Database,Table Name,Line ID,name,seq
+"(Package Name, com.facebook.katana)","(Original Database Name, locuspocus.db)","(Original Path of Database, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.facebook.katana/databases/locuspocus.db)","(Table Name, sqlite_sequence)","(Line ID, 1)","(name, sqliteproc_schema)","(seq, 13)"
+"(Package Name, com.facebook.katana)","(Original Database Name, locuspocus.db)","(Original Path of Database, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.facebook.katana/databases/locuspocus.db)","(Table Name, sqlite_sequence)","(Line ID, 2)","(name, sqliteproc_metadata)","(seq, 3)"

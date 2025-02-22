@@ -1,0 +1,4 @@
+Package Name,Original Database Name,Original Path of Database,Table Name,Line ID,id_type,id_value
+"(Package Name, com.snapchat.android)","(Original Database Name, arroyo.db)","(Original Path of Database, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.snapchat.android/databases/arroyo.db)","(Table Name, integer_id)","(Line ID, 1)","(id_type, 0)","(id_value, 512)"
+"(Package Name, com.snapchat.android)","(Original Database Name, arroyo.db)","(Original Path of Database, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.snapchat.android/databases/arroyo.db)","(Table Name, integer_id)","(Line ID, 2)","(id_type, 1)","(id_value, 64)"
+"(Package Name, com.snapchat.android)","(Original Database Name, arroyo.db)","(Original Path of Database, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.snapchat.android/databases/arroyo.db)","(Table Name, integer_id)","(Line ID, 3)","(id_type, 2)","(id_value, 320)"

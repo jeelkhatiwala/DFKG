@@ -1,0 +1,2 @@
+Package Name,Original Database Name,Original Path of Database,Table Name,Line ID,_id,friendRowId,userId,addSource,added,ignored,hasViewed
+"(Package Name, com.snapchat.android)","(Original Database Name, main.db)","(Original Path of Database, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.snapchat.android/databases/main.db)","(Table Name, FriendWhoAddedMe)","(Line ID, 1)","(_id, 10)","(friendRowId, 5)","(userId, 62e75dbe-f72a-4e46-8a91-490335355d53)","(addSource, )","(added, 1)","(ignored, 0)","(hasViewed, 0)"

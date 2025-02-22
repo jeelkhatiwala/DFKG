@@ -1,0 +1,4 @@
+Package Name,Original Database Name,Original Path of Database,Table Name,Line ID,key,value
+"(Package Name, com.cargurus.mobileApp)","(Original Database Name, Cookies)","(Original Path of Database, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.cargurus.mobileApp/app_webview/Default/Cookies)","(Table Name, meta)","(Line ID, 1)","(key, mmap_status)","(value, -1)"
+"(Package Name, com.cargurus.mobileApp)","(Original Database Name, Cookies)","(Original Path of Database, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.cargurus.mobileApp/app_webview/Default/Cookies)","(Table Name, meta)","(Line ID, 2)","(key, version)","(value, 14)"
+"(Package Name, com.cargurus.mobileApp)","(Original Database Name, Cookies)","(Original Path of Database, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.cargurus.mobileApp/app_webview/Default/Cookies)","(Table Name, meta)","(Line ID, 3)","(key, last_compatible_version)","(value, 14)"

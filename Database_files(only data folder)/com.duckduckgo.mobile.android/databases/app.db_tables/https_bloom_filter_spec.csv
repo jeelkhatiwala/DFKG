@@ -1,0 +1,2 @@
+Package Name,Original Database Name,Original Path of Database,Table Name,Line ID,id,bitCount,errorRate,totalEntries,sha256
+"(Package Name, com.duckduckgo.mobile.android)","(Original Database Name, app.db)","(Original Path of Database, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.duckduckgo.mobile.android/databases/app.db)","(Table Name, https_bloom_filter_spec)","(Line ID, 1)","(id, 0)","(bitCount, 17183892)","(errorRate, 1e-06)","(totalEntries, 597593)","(sha256, eda2f894ada389894ba09210e21b40c9b9bd2d99917c8f0563789991e6d40584)"

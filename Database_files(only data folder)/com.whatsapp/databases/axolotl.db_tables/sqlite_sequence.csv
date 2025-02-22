@@ -1,0 +1,5 @@
+Package Name,Original Database Name,Original Path of Database,Table Name,Line ID,name,seq
+"(Package Name, com.whatsapp)","(Original Database Name, axolotl.db)","(Original Path of Database, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.whatsapp/databases/axolotl.db)","(Table Name, sqlite_sequence)","(Line ID, 1)","(name, identities)","(seq, 1)"
+"(Package Name, com.whatsapp)","(Original Database Name, axolotl.db)","(Original Path of Database, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.whatsapp/databases/axolotl.db)","(Table Name, sqlite_sequence)","(Line ID, 2)","(name, signed_prekeys)","(seq, 4)"
+"(Package Name, com.whatsapp)","(Original Database Name, axolotl.db)","(Original Path of Database, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.whatsapp/databases/axolotl.db)","(Table Name, sqlite_sequence)","(Line ID, 3)","(name, prekeys)","(seq, 1624)"
+"(Package Name, com.whatsapp)","(Original Database Name, axolotl.db)","(Original Path of Database, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.whatsapp/databases/axolotl.db)","(Table Name, sqlite_sequence)","(Line ID, 4)","(name, prekey_uploads)","(seq, 1)"
