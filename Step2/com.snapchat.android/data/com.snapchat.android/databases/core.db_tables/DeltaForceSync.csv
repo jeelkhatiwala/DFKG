@@ -1,0 +1,4 @@
+PID,DN,DP,TN,RL,_id,client_key,group_key,sync_token
+"(PID, com.snapchat.android)","(DN, core.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.snapchat.android/databases/core.db)","(TN, DeltaForceSync)","(RL, 1)","(_id, 17)","(client_key, atlas_core_data)","(group_key, CoreData	9002a6f8-54f8-4540-bc16-53a6b37f0688	)","(sync_token, 1w5ucg==)"
+"(PID, com.snapchat.android)","(DN, core.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.snapchat.android/databases/core.db)","(TN, DeltaForceSync)","(RL, 2)","(_id, 18)","(client_key, atlas_core_data)","(group_key, UserScore	9002a6f8-54f8-4540-bc16-53a6b37f0688	)","(sync_token, opiWAQ==)"
+"(PID, com.snapchat.android)","(DN, core.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.snapchat.android/databases/core.db)","(TN, DeltaForceSync)","(RL, 3)","(_id, 19)","(client_key, sup)","(group_key, SUP	9002a6f8-54f8-4540-bc16-53a6b37f0688	)","(sync_token, CDIYqYjFlJgv)"

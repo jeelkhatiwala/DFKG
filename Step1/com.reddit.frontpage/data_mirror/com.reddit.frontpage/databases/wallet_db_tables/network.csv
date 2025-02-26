@@ -1,0 +1,3 @@
+PID,DN,DP,TN,RL,providerKey,txUrl
+"(PID, com.reddit.frontpage)","(DN, wallet_db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data_mirror/data_ce/null/0/com.reddit.frontpage/databases/wallet_db)","(TN, network)","(RL, 1)","(providerKey, ethereum:1)","(txUrl, https://etherscan.io/tx/{hash})"
+"(PID, com.reddit.frontpage)","(DN, wallet_db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data_mirror/data_ce/null/0/com.reddit.frontpage/databases/wallet_db)","(TN, network)","(RL, 2)","(providerKey, ethereum:4)","(txUrl, https://rinkeby.etherscan.io/tx/{hash})"

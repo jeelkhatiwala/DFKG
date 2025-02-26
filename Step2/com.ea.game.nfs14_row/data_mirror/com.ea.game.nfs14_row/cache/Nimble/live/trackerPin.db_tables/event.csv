@@ -1,0 +1,3 @@
+PID,DN,DP,TN,RL,id,cid,data
+"(PID, com.ea.game.nfs14_row)","(DN, trackerPin.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data_mirror/data_ce/null/0/com.ea.game.nfs14_row/cache/Nimble/live/trackerPin.db)","(TN, event)","(RL, 1)","(id, 8)","(cid, 8)","(data, {""core"":{""en"":""boot_end"",""s"":2,""ts_event"":""2021-07-02T05:29:13Z""},""end_reason"":""background"",""sdur"":789}
+)"

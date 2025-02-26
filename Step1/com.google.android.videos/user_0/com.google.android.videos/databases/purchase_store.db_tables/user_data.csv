@@ -1,0 +1,2 @@
+PID,DN,DP,TN,RL,user_account,sync_snapshot_token,wishlist_snapshot_token
+"(PID, com.google.android.videos)","(DN, purchase_store.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.google.android.videos/databases/purchase_store.db)","(TN, user_data)","(RL, 1)","(user_account, heisenbergcarro@gmail.com)","(sync_snapshot_token, None)","(wishlist_snapshot_token, COPLmdWEkt_WIw)"

@@ -1,0 +1,7 @@
+PID,DN,DP,TN,RL,name,seq
+"(PID, com.snapchat.android)","(DN, core.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.snapchat.android/databases/core.db)","(TN, sqlite_sequence)","(RL, 1)","(name, Preferences)","(seq, 3718)"
+"(PID, com.snapchat.android)","(DN, core.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.snapchat.android/databases/core.db)","(TN, sqlite_sequence)","(RL, 2)","(name, ConfigRule)","(seq, 4174)"
+"(PID, com.snapchat.android)","(DN, core.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.snapchat.android/databases/core.db)","(TN, sqlite_sequence)","(RL, 3)","(name, ConfigEtag)","(seq, 3)"
+"(PID, com.snapchat.android)","(DN, core.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.snapchat.android/databases/core.db)","(TN, sqlite_sequence)","(RL, 4)","(name, SnapUserStore)","(seq, 22)"
+"(PID, com.snapchat.android)","(DN, core.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.snapchat.android/databases/core.db)","(TN, sqlite_sequence)","(RL, 5)","(name, DeltaForceSync)","(seq, 19)"
+"(PID, com.snapchat.android)","(DN, core.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.snapchat.android/databases/core.db)","(TN, sqlite_sequence)","(RL, 6)","(name, DataConsumption)","(seq, 3421)"

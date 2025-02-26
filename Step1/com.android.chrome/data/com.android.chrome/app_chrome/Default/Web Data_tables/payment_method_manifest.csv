@@ -1,0 +1,2 @@
+PID,DN,DP,TN,RL,expire_date,method_name,web_app_id
+"(PID, com.android.chrome)","(DN, Web Data)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.android.chrome/app_chrome/Default/Web Data)","(TN, payment_method_manifest)","(RL, 1)","(expire_date, 1633492948)","(method_name, org.chromium.url.GURL@542c074c)","(web_app_id, com.samsung.android.spay)"

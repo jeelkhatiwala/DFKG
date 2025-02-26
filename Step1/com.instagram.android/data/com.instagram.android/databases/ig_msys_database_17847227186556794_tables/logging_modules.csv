@@ -1,0 +1,2 @@
+PID,DN,DP,TN,RL,module_id,sample_rate,metadata_provider_id_mask
+"(PID, com.instagram.android)","(DN, ig_msys_database_17847227186556794)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.instagram.android/databases/ig_msys_database_17847227186556794)","(TN, logging_modules)","(RL, 1)","(module_id, -1)","(sample_rate, -1)","(metadata_provider_id_mask, None)"

@@ -1,0 +1,6 @@
+PID,DN,DP,TN,RL,name,seq
+"(PID, com.twitter.android)","(DN, 1378525099184291843-61.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.twitter.android/databases/1378525099184291843-61.db)","(TN, sqlite_sequence)","(RL, 1)","(name, timeline)","(seq, 22232)"
+"(PID, com.twitter.android)","(DN, 1378525099184291843-61.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.twitter.android/databases/1378525099184291843-61.db)","(TN, sqlite_sequence)","(RL, 2)","(name, interest_topic)","(seq, 406)"
+"(PID, com.twitter.android)","(DN, 1378525099184291843-61.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.twitter.android/databases/1378525099184291843-61.db)","(TN, sqlite_sequence)","(RL, 3)","(name, feedback_action)","(seq, 13280)"
+"(PID, com.twitter.android)","(DN, 1378525099184291843-61.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.twitter.android/databases/1378525099184291843-61.db)","(TN, sqlite_sequence)","(RL, 4)","(name, notifications)","(seq, 530)"
+"(PID, com.twitter.android)","(DN, 1378525099184291843-61.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.twitter.android/databases/1378525099184291843-61.db)","(TN, sqlite_sequence)","(RL, 5)","(name, card_state)","(seq, 1)"

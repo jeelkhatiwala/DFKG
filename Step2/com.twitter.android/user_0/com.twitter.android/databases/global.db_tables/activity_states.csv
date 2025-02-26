@@ -1,0 +1,2 @@
+PID,DN,DP,TN,RL,_id,account_id,tweet,unread_interactions
+"(PID, com.twitter.android)","(DN, global.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.twitter.android/databases/global.db)","(TN, activity_states)","(RL, 1)","(_id, 1)","(account_id, 1378525099184291843)","(tweet, 1)","(unread_interactions, 21)"

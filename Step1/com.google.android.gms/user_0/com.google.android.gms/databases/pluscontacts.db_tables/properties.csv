@@ -1,0 +1,5 @@
+PID,DN,DP,TN,RL,name,value
+"(PID, com.google.android.gms)","(DN, pluscontacts.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.google.android.gms/databases/pluscontacts.db)","(TN, properties)","(RL, 1)","(name, dbLocale)","(value, en_US)"
+"(PID, com.google.android.gms)","(DN, pluscontacts.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.google.android.gms/databases/pluscontacts.db)","(TN, properties)","(RL, 2)","(name, searchIndexVersion)","(value, 5)"
+"(PID, com.google.android.gms)","(DN, pluscontacts.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.google.android.gms/databases/pluscontacts.db)","(TN, properties)","(RL, 3)","(name, indexIcuVersion)","(value, 66.1)"
+"(PID, com.google.android.gms)","(DN, pluscontacts.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.google.android.gms/databases/pluscontacts.db)","(TN, properties)","(RL, 4)","(name, gcoreVersion)","(value, 212418046)"

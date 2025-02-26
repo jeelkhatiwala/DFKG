@@ -1,0 +1,2 @@
+PID,DN,DP,TN,RL,name,seq
+"(PID, com.flatfish.cal.privacy)","(DN, hidex.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.flatfish.cal.privacy/databases/hidex.db)","(TN, sqlite_sequence)","(RL, 1)","(name, p_lock_app)","(seq, 4)"

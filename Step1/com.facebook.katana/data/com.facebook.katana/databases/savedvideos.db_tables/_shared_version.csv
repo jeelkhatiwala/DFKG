@@ -1,0 +1,6 @@
+PID,DN,DP,TN,RL,name,version
+"(PID, com.facebook.katana)","(DN, savedvideos.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.facebook.katana/databases/savedvideos.db)","(TN, _shared_version)","(RL, 1)","(name, saved_videos)","(version, 11)"
+"(PID, com.facebook.katana)","(DN, savedvideos.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.facebook.katana/databases/savedvideos.db)","(TN, _shared_version)","(RL, 2)","(name, saved_video_stories)","(version, 6)"
+"(PID, com.facebook.katana)","(DN, savedvideos.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.facebook.katana/databases/savedvideos.db)","(TN, _shared_version)","(RL, 3)","(name, saved_videos_analytics)","(version, 2)"
+"(PID, com.facebook.katana)","(DN, savedvideos.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.facebook.katana/databases/savedvideos.db)","(TN, _shared_version)","(RL, 4)","(name, app_build_number)","(version, 287519012)"
+"(PID, com.facebook.katana)","(DN, savedvideos.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.facebook.katana/databases/savedvideos.db)","(TN, _shared_version)","(RL, 5)","(name, app_upgrade_time)","(version, 1620206635909)"

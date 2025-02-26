@@ -1,2 +1,0 @@
-Package Name,Original Database Name,Original Path of Database,Table Name,Line ID,timestamp_first,timestamp_previous,timestamp_current,visits,store_id
-"(Package Name, com.waze)","(Original Database Name, google_analytics.db)","(Original Path of Database, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/databases/google_analytics.db)","(Table Name, session)","(Line ID, 1)","(timestamp_first, 1625260736)","(timestamp_previous, 1625260736)","(timestamp_current, 1625260736)","(visits, 1)","(store_id, 1562458038)"

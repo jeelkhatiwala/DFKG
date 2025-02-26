@@ -1,0 +1,3 @@
+PID,DN,DP,TN,RL,key,value
+"(PID, com.snapchat.android)","(DN, arroyo.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data_mirror/data_ce/null/0/com.snapchat.android/databases/arroyo.db)","(TN, required_values)","(RL, 1)","(key, MODE)","(value, MODE_ALL)"
+"(PID, com.snapchat.android)","(DN, arroyo.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data_mirror/data_ce/null/0/com.snapchat.android/databases/arroyo.db)","(TN, required_values)","(RL, 2)","(key, USERID)","(value, 9002a6f8-54f8-4540-bc16-53a6b37f0688)"

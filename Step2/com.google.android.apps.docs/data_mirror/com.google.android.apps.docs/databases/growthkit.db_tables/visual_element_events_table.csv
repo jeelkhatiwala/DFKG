@@ -1,0 +1,2 @@
+PID,DN,DP,TN,RL,account,timestamp_ms,node_id,node_id_path,action
+"(PID, com.google.android.apps.docs)","(DN, growthkit.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data_mirror/data_ce/null/0/com.google.android.apps.docs/databases/growthkit.db)","(TN, visual_element_events_table)","(RL, 1)","(account, heisenbergcarro@gmail.com)","(timestamp_ms, 1625718279581)","(node_id, 55253)","(node_id_path, 55253)","(action, 0)"

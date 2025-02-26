@@ -1,0 +1,2 @@
+PID,DN,DP,TN,RL,app_uid,cid,tid,params,adid,hits_count
+"(PID, com.tmobile.tuesdays)","(DN, google_analytics_v4.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data_mirror/data_ce/null/0/com.tmobile.tuesdays/databases/google_analytics_v4.db)","(TN, properties)","(RL, 1)","(app_uid, 0)","(cid, 1bb7be28-2cfc-4f35-a4ba-f6c9215ec509)","(tid, UA-71671299-9)","(params, av=6.7.2&an=Tuesdays&aid=com.tmobile.tuesdays&aiid=com.android.vending)","(adid, 0)","(hits_count, 835)"

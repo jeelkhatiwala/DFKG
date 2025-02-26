@@ -1,0 +1,3 @@
+PID,DN,DP,TN,RL,name,work_spec_id
+"(PID, com.google.android.gm)","(DN, androidx.work.workdb)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.google.android.gm/no_backup/androidx.work.workdb)","(TN, WorkName)","(RL, 1)","(name, SyncTask1_)","(work_spec_id, 96530afc-4f5c-4fef-a775-f0d0ad32cafd)"
+"(PID, com.google.android.gm)","(DN, androidx.work.workdb)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.google.android.gm/no_backup/androidx.work.workdb)","(TN, WorkName)","(RL, 2)","(name, SyncTask)","(work_spec_id, 3ab78194-a42f-4af1-a410-e6988c426f5c)"

@@ -1,0 +1,2 @@
+PID,DN,DP,TN,RL,row_id,low_watermark,high_watermark,continuation_token,entity_name
+"(PID, com.google.android.gm)","(DN, bigTopDataDB.-1285600966)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.google.android.gm/databases/bigTopDataDB.-1285600966)","(TN, entity_sync_state)","(RL, 1)","(row_id, 1)","(low_watermark, None)","(high_watermark, None)","(continuation_token, 0000001626945767336)","(entity_name, settings)"

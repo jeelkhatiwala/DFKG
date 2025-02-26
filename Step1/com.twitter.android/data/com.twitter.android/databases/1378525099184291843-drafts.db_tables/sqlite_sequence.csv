@@ -1,0 +1,2 @@
+PID,DN,DP,TN,RL,name,seq
+"(PID, com.twitter.android)","(DN, 1378525099184291843-drafts.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.twitter.android/databases/1378525099184291843-drafts.db)","(TN, sqlite_sequence)","(RL, 1)","(name, drafts)","(seq, 3)"

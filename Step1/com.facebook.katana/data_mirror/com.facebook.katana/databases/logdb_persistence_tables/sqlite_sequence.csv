@@ -1,0 +1,2 @@
+PID,DN,DP,TN,RL,name,seq
+"(PID, com.facebook.katana)","(DN, logdb_persistence)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data_mirror/data_ce/null/0/com.facebook.katana/databases/logdb_persistence)","(TN, sqlite_sequence)","(RL, 1)","(name, logdb_data)","(seq, 375)"

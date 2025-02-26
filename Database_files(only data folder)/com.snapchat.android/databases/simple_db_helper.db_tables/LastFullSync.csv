@@ -1,3 +1,0 @@
-Package Name,Original Database Name,Original Path of Database,Table Name,Line ID,_id,sectionSource,timestamp
-"(Package Name, com.snapchat.android)","(Original Database Name, simple_db_helper.db)","(Original Path of Database, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.snapchat.android/databases/simple_db_helper.db)","(Table Name, LastFullSync)","(Line ID, 1)","(_id, 65)","(sectionSource, 1)","(timestamp, 1626288015565)"
-"(Package Name, com.snapchat.android)","(Original Database Name, simple_db_helper.db)","(Original Path of Database, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.snapchat.android/databases/simple_db_helper.db)","(Table Name, LastFullSync)","(Line ID, 2)","(_id, 66)","(sectionSource, 5)","(timestamp, 1626288016926)"

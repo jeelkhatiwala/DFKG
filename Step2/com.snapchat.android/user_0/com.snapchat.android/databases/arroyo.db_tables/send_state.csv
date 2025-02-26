@@ -1,0 +1,5 @@
+PID,DN,DP,TN,RL,send_state_type
+"(PID, com.snapchat.android)","(DN, arroyo.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.snapchat.android/databases/arroyo.db)","(TN, send_state)","(RL, 1)","(send_state_type, PREPARING)"
+"(PID, com.snapchat.android)","(DN, arroyo.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.snapchat.android/databases/arroyo.db)","(TN, send_state)","(RL, 2)","(send_state_type, SENDING)"
+"(PID, com.snapchat.android)","(DN, arroyo.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.snapchat.android/databases/arroyo.db)","(TN, send_state)","(RL, 3)","(send_state_type, FAILED)"
+"(PID, com.snapchat.android)","(DN, arroyo.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.snapchat.android/databases/arroyo.db)","(TN, send_state)","(RL, 4)","(send_state_type, COMMITTED)"

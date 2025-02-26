@@ -1,0 +1,5 @@
+PID,DN,DP,TN,RL,name,seq
+"(PID, com.whatsapp)","(DN, axolotl.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data_mirror/data_ce/null/0/com.whatsapp/databases/axolotl.db)","(TN, sqlite_sequence)","(RL, 1)","(name, identities)","(seq, 1)"
+"(PID, com.whatsapp)","(DN, axolotl.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data_mirror/data_ce/null/0/com.whatsapp/databases/axolotl.db)","(TN, sqlite_sequence)","(RL, 2)","(name, signed_prekeys)","(seq, 4)"
+"(PID, com.whatsapp)","(DN, axolotl.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data_mirror/data_ce/null/0/com.whatsapp/databases/axolotl.db)","(TN, sqlite_sequence)","(RL, 3)","(name, prekeys)","(seq, 1624)"
+"(PID, com.whatsapp)","(DN, axolotl.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data_mirror/data_ce/null/0/com.whatsapp/databases/axolotl.db)","(TN, sqlite_sequence)","(RL, 4)","(name, prekey_uploads)","(seq, 1)"

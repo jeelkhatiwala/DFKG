@@ -1,0 +1,4 @@
+PID,DN,DP,TN,RL,name,seq
+"(PID, com.google.android.gms)","(DN, icing-indexapi.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.google.android.gms/databases/icing-indexapi.db)","(TN, sqlite_sequence)","(RL, 1)","(name, MobileApplication_com.google.android.gms_seq_table)","(seq, 139)"
+"(PID, com.google.android.gms)","(DN, icing-indexapi.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.google.android.gms/databases/icing-indexapi.db)","(TN, sqlite_sequence)","(RL, 2)","(name, Person_com.google.android.gms_seq_table)","(seq, 44)"
+"(PID, com.google.android.gms)","(DN, icing-indexapi.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.google.android.gms/databases/icing-indexapi.db)","(TN, sqlite_sequence)","(RL, 3)","(name, Place_com.google.android.apps.maps_seq_table)","(seq, 6)"

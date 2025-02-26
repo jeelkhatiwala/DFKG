@@ -1,0 +1,2 @@
+PID,DN,DP,TN,RL,name,seq
+"(PID, com.microsoft.office.outlook)","(DN, com.microsoft.appcenter.persistence)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data_mirror/data_ce/null/0/com.microsoft.office.outlook/databases/com.microsoft.appcenter.persistence)","(TN, sqlite_sequence)","(RL, 1)","(name, logs)","(seq, 15)"

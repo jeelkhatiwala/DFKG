@@ -1,0 +1,2 @@
+PID,DN,DP,TN,RL,key,blocked_tracker_count,upgrade_count
+"(PID, com.duckduckgo.mobile.android)","(DN, app.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.duckduckgo.mobile.android/databases/app.db)","(TN, privacy_protection_count)","(RL, 1)","(key, SINGLETON_KEY)","(blocked_tracker_count, 14)","(upgrade_count, 0)"

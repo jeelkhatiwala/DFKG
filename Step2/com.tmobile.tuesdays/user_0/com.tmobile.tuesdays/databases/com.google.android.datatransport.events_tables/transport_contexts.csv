@@ -1,0 +1,7 @@
+PID,DN,DP,TN,RL,_id,backend_name,priority,next_request_ms,extras
+"(PID, com.tmobile.tuesdays)","(DN, com.google.android.datatransport.events)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.tmobile.tuesdays/databases/com.google.android.datatransport.events)","(TN, transport_contexts)","(RL, 1)","(_id, 1)","(backend_name, cct)","(priority, 0)","(next_request_ms, 1626926616327)","(extras, MSRodHRwczovL2ZpcmViYXNlbG9nZ2luZy1wYS5nb29nbGVhcGlzLmNvbS92MS9maXJlbG9nL2xl
+Z2FjeS9iYXRjaGxvZ1xBSXphU3lDY2traUg4aTJaQVJ3T3MxTEV6RktsZDE1YU9HOG96S28=
+)"
+"(PID, com.tmobile.tuesdays)","(DN, com.google.android.datatransport.events)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.tmobile.tuesdays/databases/com.google.android.datatransport.events)","(TN, transport_contexts)","(RL, 2)","(_id, 2)","(backend_name, cct)","(priority, 2)","(next_request_ms, 1625809559805)","(extras, MSRodHRwczovL2NyYXNobHl0aWNzcmVwb3J0cy1wYS5nb29nbGVhcGlzLmNvbS92MS9maXJlbG9n
+L2xlZ2FjeS9iYXRjaGxvZ1xBSXphU3lCcnBTWVQ0RkZMMDlyZUhKaTZIOUZZZGVpU25VVE92Mk0=
+)"

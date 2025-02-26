@@ -1,0 +1,4 @@
+PID,DN,DP,TN,RL,app_name,type
+"(PID, com.google.android.gms)","(DN, icing-indexapi.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.google.android.gms/databases/icing-indexapi.db)","(TN, type_indexapi)","(RL, 1)","(app_name, com.google.android.gms)","(type, MobileApplication)"
+"(PID, com.google.android.gms)","(DN, icing-indexapi.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.google.android.gms/databases/icing-indexapi.db)","(TN, type_indexapi)","(RL, 2)","(app_name, com.google.android.gms)","(type, Person)"
+"(PID, com.google.android.gms)","(DN, icing-indexapi.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.google.android.gms/databases/icing-indexapi.db)","(TN, type_indexapi)","(RL, 3)","(app_name, com.google.android.apps.maps)","(type, Place)"

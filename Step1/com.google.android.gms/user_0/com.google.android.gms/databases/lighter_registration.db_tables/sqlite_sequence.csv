@@ -1,0 +1,2 @@
+PID,DN,DP,TN,RL,name,seq
+"(PID, com.google.android.gms)","(DN, lighter_registration.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.google.android.gms/databases/lighter_registration.db)","(TN, sqlite_sequence)","(RL, 1)","(name, registration)","(seq, 1)"

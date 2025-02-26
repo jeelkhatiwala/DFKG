@@ -1,0 +1,4 @@
+PID,DN,DP,TN,RL,user_id,consumer_name,sequence_id
+"(PID, com.facebook.katana)","(DN, logdb_persistence)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.facebook.katana/databases/logdb_persistence)","(TN, resume_points)","(RL, 1)","(user_id, 2cf928d3)","(consumer_name, WaterfallLoggerConsumer)","(sequence_id, 355)"
+"(PID, com.facebook.katana)","(DN, logdb_persistence)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.facebook.katana/databases/logdb_persistence)","(TN, resume_points)","(RL, 2)","(user_id, 2cf928d3)","(consumer_name, VpvConsumer)","(sequence_id, 372)"
+"(PID, com.facebook.katana)","(DN, logdb_persistence)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.facebook.katana/databases/logdb_persistence)","(TN, resume_points)","(RL, 3)","(user_id, 2cf928d3)","(consumer_name, RecentVPVTracker)","(sequence_id, 329)"

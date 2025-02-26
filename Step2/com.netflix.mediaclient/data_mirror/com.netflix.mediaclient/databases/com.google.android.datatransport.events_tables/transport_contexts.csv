@@ -1,0 +1,4 @@
+PID,DN,DP,TN,RL,_id,backend_name,priority,next_request_ms,extras
+"(PID, com.netflix.mediaclient)","(DN, com.google.android.datatransport.events)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data_mirror/data_ce/null/0/com.netflix.mediaclient/databases/com.google.android.datatransport.events)","(TN, transport_contexts)","(RL, 1)","(_id, 1)","(backend_name, cct)","(priority, 1)","(next_request_ms, 1624583193799)","(extras, MSRodHRwczovL2ZpcmViYXNlbG9nZ2luZy5nb29nbGVhcGlzLmNvbS92MGNjL2xvZy9iYXRjaD9m
+b3JtYXQ9anNvbl9wcm90bzNc
+)"

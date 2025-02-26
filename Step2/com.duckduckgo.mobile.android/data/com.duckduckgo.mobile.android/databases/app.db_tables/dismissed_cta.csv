@@ -1,0 +1,8 @@
+PID,DN,DP,TN,RL,ctaId
+"(PID, com.duckduckgo.mobile.android)","(DN, app.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.duckduckgo.mobile.android/databases/app.db)","(TN, dismissed_cta)","(RL, 1)","(ctaId, DAX_FIRE_BUTTON)"
+"(PID, com.duckduckgo.mobile.android)","(DN, app.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.duckduckgo.mobile.android/databases/app.db)","(TN, dismissed_cta)","(RL, 2)","(ctaId, DAX_INTRO)"
+"(PID, com.duckduckgo.mobile.android)","(DN, app.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.duckduckgo.mobile.android/databases/app.db)","(TN, dismissed_cta)","(RL, 3)","(ctaId, DAX_DIALOG_SERP)"
+"(PID, com.duckduckgo.mobile.android)","(DN, app.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.duckduckgo.mobile.android/databases/app.db)","(TN, dismissed_cta)","(RL, 4)","(ctaId, DAX_DIALOG_NETWORK)"
+"(PID, com.duckduckgo.mobile.android)","(DN, app.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.duckduckgo.mobile.android/databases/app.db)","(TN, dismissed_cta)","(RL, 5)","(ctaId, DAX_END)"
+"(PID, com.duckduckgo.mobile.android)","(DN, app.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.duckduckgo.mobile.android/databases/app.db)","(TN, dismissed_cta)","(RL, 6)","(ctaId, DAX_DIALOG_TRACKERS_FOUND)"
+"(PID, com.duckduckgo.mobile.android)","(DN, app.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.duckduckgo.mobile.android/databases/app.db)","(TN, dismissed_cta)","(RL, 7)","(ctaId, ADD_WIDGET)"

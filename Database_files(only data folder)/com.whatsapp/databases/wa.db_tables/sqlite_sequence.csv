@@ -1,3 +1,0 @@
-Package Name,Original Database Name,Original Path of Database,Table Name,Line ID,name,seq
-"(Package Name, com.whatsapp)","(Original Database Name, wa.db)","(Original Path of Database, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.whatsapp/databases/wa.db)","(Table Name, sqlite_sequence)","(Line ID, 1)","(name, wa_contacts)","(seq, 2)"
-"(Package Name, com.whatsapp)","(Original Database Name, wa.db)","(Original Path of Database, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.whatsapp/databases/wa.db)","(Table Name, sqlite_sequence)","(Line ID, 2)","(name, wa_props)","(seq, 72)"

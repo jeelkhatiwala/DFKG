@@ -1,2 +1,0 @@
-Package Name,Original Database Name,Original Path of Database,Table Name,Line ID,key,count
-"(Package Name, com.duckduckgo.mobile.android)","(Original Database Name, app.db)","(Original Path of Database, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.duckduckgo.mobile.android/databases/app.db)","(Table Name, search_count)","(Line ID, 1)","(key, SINGLETON_KEY)","(count, 3)"

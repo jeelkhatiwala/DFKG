@@ -1,0 +1,3 @@
+PID,DN,DP,TN,RL,_id,sectionSource,timestamp
+"(PID, com.snapchat.android)","(DN, simple_db_helper.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.snapchat.android/databases/simple_db_helper.db)","(TN, LastFullSync)","(RL, 1)","(_id, 65)","(sectionSource, 1)","(timestamp, 1626288015565)"
+"(PID, com.snapchat.android)","(DN, simple_db_helper.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.snapchat.android/databases/simple_db_helper.db)","(TN, LastFullSync)","(RL, 2)","(_id, 66)","(sectionSource, 5)","(timestamp, 1626288016926)"

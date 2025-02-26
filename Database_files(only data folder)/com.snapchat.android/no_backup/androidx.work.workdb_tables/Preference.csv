@@ -1,2 +1,0 @@
-Package Name,Original Database Name,Original Path of Database,Table Name,Line ID,key,long_value
-"(Package Name, com.snapchat.android)","(Original Database Name, androidx.work.workdb)","(Original Path of Database, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.snapchat.android/no_backup/androidx.work.workdb)","(Table Name, Preference)","(Line ID, 1)","(key, last_cancel_all_time_ms)","(long_value, 1626288014468)"

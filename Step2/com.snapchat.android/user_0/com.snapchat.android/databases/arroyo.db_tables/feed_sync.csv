@@ -1,0 +1,2 @@
+PID,DN,DP,TN,RL,sentinel,token,oldest_modified_timestamp,oldest_client_conversation_id
+"(PID, com.snapchat.android)","(DN, arroyo.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.snapchat.android/databases/arroyo.db)","(TN, feed_sync)","(RL, 1)","(sentinel, 1)","(token, Cg4QgL7GsqovGJWMx7KqLxobChIKELc5Bxf4A1A5gQ9rwApQNw8Q+8Lr2Ikv)","(oldest_modified_timestamp, None)","(oldest_client_conversation_id, None)"

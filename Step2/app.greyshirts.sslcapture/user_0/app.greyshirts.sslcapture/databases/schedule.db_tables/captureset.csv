@@ -1,0 +1,3 @@
+PID,DN,DP,TN,RL,_id,captureset_set_id,captureset_start_time
+"(PID, app.greyshirts.sslcapture)","(DN, schedule.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/app.greyshirts.sslcapture/databases/schedule.db)","(TN, captureset)","(RL, 1)","(_id, 1)","(captureset_set_id, 1618077687062)","(captureset_start_time, 1618077687062)"
+"(PID, app.greyshirts.sslcapture)","(DN, schedule.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/app.greyshirts.sslcapture/databases/schedule.db)","(TN, captureset)","(RL, 2)","(_id, 2)","(captureset_set_id, 1618078122542)","(captureset_start_time, 1618078122542)"

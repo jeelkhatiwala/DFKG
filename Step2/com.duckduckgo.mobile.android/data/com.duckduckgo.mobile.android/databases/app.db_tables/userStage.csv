@@ -1,0 +1,2 @@
+PID,DN,DP,TN,RL,key,appStage
+"(PID, com.duckduckgo.mobile.android)","(DN, app.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.duckduckgo.mobile.android/databases/app.db)","(TN, userStage)","(RL, 1)","(key, 1)","(appStage, ESTABLISHED)"

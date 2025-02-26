@@ -1,0 +1,2 @@
+PID,DN,DP,TN,RL,work_spec_id,system_id
+"(PID, com.microsoft.appmanager)","(DN, androidx.work.workdb)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.microsoft.appmanager/no_backup/androidx.work.workdb)","(TN, SystemIdInfo)","(RL, 1)","(work_spec_id, b2fb6329-8591-4a58-806e-7ca65112b876)","(system_id, 280)"

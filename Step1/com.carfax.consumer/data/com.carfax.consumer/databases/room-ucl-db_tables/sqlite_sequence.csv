@@ -1,0 +1,2 @@
+PID,DN,DP,TN,RL,name,seq
+"(PID, com.carfax.consumer)","(DN, room-ucl-db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.carfax.consumer/databases/room-ucl-db)","(TN, sqlite_sequence)","(RL, 1)","(name, searchVehicles)","(seq, 702)"

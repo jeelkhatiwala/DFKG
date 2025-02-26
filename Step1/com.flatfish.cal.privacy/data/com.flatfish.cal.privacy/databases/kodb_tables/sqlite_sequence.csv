@@ -1,0 +1,3 @@
+PID,DN,DP,TN,RL,name,seq
+"(PID, com.flatfish.cal.privacy)","(DN, kodb)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.flatfish.cal.privacy/databases/kodb)","(TN, sqlite_sequence)","(RL, 1)","(name, events)","(seq, 6)"
+"(PID, com.flatfish.cal.privacy)","(DN, kodb)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.flatfish.cal.privacy/databases/kodb)","(TN, sqlite_sequence)","(RL, 2)","(name, updates)","(seq, 1)"

@@ -1,0 +1,2 @@
+PID,DN,DP,TN,RL,reachability_id,reachability_type,registration_id,reachability_normalized_id
+"(PID, com.google.android.apps.maps)","(DN, lighter_registration.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.google.android.apps.maps/databases/lighter_registration.db)","(TN, reachability)","(RL, 1)","(reachability_id, heisenbergcarro@gmail.com)","(reachability_type, 2)","(registration_id, 1)","(reachability_normalized_id, heisenbergcarro@gmail.com)"

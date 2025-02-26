@@ -1,0 +1,2 @@
+PID,DN,DP,TN,RL,app_id,account,channel,value
+"(PID, com.google.android.gms)","(DN, icing-mdh.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.google.android.gms/databases/icing-mdh.db)","(TN, subscription)","(RL, 1)","(app_id, com.google.android.gms)","(account, heisenbergcarro@gmail.com)","(channel, fs:837:190536965:2)","(value, CjAIAhIICgIIABABGB4SCAoCCAEQARgeGggKAggAEAEYHhoICgIIARABGB4gACgAMAASCAoGCgQKABACGgwSCgjFBhCFuu1aGAIgwPDG5QEoCjDcgIKNpS8=)"

@@ -1,0 +1,2 @@
+PID,DN,DP,TN,RL,row_id,server_perm_id,write_sequence_id,item_server_perm_id
+"(PID, com.google.android.gm)","(DN, bigTopDataDB.-1285600966)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.google.android.gm/databases/bigTopDataDB.-1285600966)","(TN, item_message_tombstones)","(RL, 1)","(row_id, 148)","(server_perm_id, msg-f:1699833179739341160)","(write_sequence_id, 1185)","(item_server_perm_id, thread-f:1699833179739341160)"

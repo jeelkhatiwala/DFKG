@@ -1,0 +1,4 @@
+PID,DN,DP,TN,RL,name,seq
+"(PID, com.ea.game.nfs14_row)","(DN, trackerMars.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.ea.game.nfs14_row/cache/Nimble/live/trackerMars.db)","(TN, sqlite_sequence)","(RL, 1)","(name, session)","(seq, 2)"
+"(PID, com.ea.game.nfs14_row)","(DN, trackerMars.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.ea.game.nfs14_row/cache/Nimble/live/trackerMars.db)","(TN, sqlite_sequence)","(RL, 2)","(name, context)","(seq, 2)"
+"(PID, com.ea.game.nfs14_row)","(DN, trackerMars.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.ea.game.nfs14_row/cache/Nimble/live/trackerMars.db)","(TN, sqlite_sequence)","(RL, 3)","(name, event)","(seq, 1)"

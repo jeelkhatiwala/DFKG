@@ -1,0 +1,2 @@
+PID,DN,DP,TN,RL,name,seq
+"(PID, com.facebook.katana)","(DN, time_in_app_100065791655767.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.facebook.katana/databases/time_in_app_100065791655767.db)","(TN, sqlite_sequence)","(RL, 1)","(name, intervals)","(seq, 141)"

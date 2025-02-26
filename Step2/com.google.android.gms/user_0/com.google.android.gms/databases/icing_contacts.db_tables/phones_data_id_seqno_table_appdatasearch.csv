@@ -1,0 +1,4 @@
+PID,DN,DP,TN,RL,seqno,action_type,uri,tag
+"(PID, com.google.android.gms)","(DN, icing_contacts.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.google.android.gms/databases/icing_contacts.db)","(TN, phones_data_id_seqno_table_appdatasearch)","(RL, 1)","(seqno, 1)","(action_type, 0)","(uri, 2)","(tag, None)"
+"(PID, com.google.android.gms)","(DN, icing_contacts.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.google.android.gms/databases/icing_contacts.db)","(TN, phones_data_id_seqno_table_appdatasearch)","(RL, 2)","(seqno, 2)","(action_type, 0)","(uri, 4)","(tag, None)"
+"(PID, com.google.android.gms)","(DN, icing_contacts.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.google.android.gms/databases/icing_contacts.db)","(TN, phones_data_id_seqno_table_appdatasearch)","(RL, 3)","(seqno, 3)","(action_type, 0)","(uri, 6)","(tag, None)"

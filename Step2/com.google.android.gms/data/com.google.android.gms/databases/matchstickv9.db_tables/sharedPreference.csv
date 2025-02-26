@@ -1,0 +1,2 @@
+PID,DN,DP,TN,RL,key,type,value
+"(PID, com.google.android.gms)","(DN, matchstickv9.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.google.android.gms/databases/matchstickv9.db)","(TN, sharedPreference)","(RL, 1)","(key, upgraded_to_lighter_registration_key)","(type, 1)","(value, true)"

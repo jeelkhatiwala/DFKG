@@ -1,0 +1,2 @@
+PID,DN,DP,TN,RL,name,seq
+"(PID, com.google.android.gms)","(DN, google_account_history.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.google.android.gms/databases/google_account_history.db)","(TN, sqlite_sequence)","(RL, 1)","(name, AccountHistory)","(seq, 1)"

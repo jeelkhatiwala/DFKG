@@ -1,0 +1,2 @@
+PID,DN,DP,TN,RL,name,seq
+"(PID, com.venmo)","(DN, braintree-analytics.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.venmo/databases/braintree-analytics.db)","(TN, sqlite_sequence)","(RL, 1)","(name, analytics)","(seq, 3)"

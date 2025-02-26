@@ -1,0 +1,3 @@
+PID,DN,DP,TN,RL,key,value
+"(PID, com.instagram.android)","(DN, time_in_app_46770300793.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data_mirror/data_ce/null/0/com.instagram.android/databases/time_in_app_46770300793.db)","(TN, metadata)","(RL, 1)","(key, last_logging_timestamp)","(value, 1626978557)"
+"(PID, com.instagram.android)","(DN, time_in_app_46770300793.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data_mirror/data_ce/null/0/com.instagram.android/databases/time_in_app_46770300793.db)","(TN, metadata)","(RL, 2)","(key, last_eviction_timestamp)","(value, 1626978557)"

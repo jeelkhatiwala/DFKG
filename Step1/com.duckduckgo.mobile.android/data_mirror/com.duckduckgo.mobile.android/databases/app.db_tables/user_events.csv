@@ -1,0 +1,3 @@
+PID,DN,DP,TN,RL,id,timestamp
+"(PID, com.duckduckgo.mobile.android)","(DN, app.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data_mirror/data_ce/null/0/com.duckduckgo.mobile.android/databases/app.db)","(TN, user_events)","(RL, 1)","(id, FIREPROOF_LOGIN_DIALOG_DISMISSED)","(timestamp, 1624595673145)"
+"(PID, com.duckduckgo.mobile.android)","(DN, app.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data_mirror/data_ce/null/0/com.duckduckgo.mobile.android/databases/app.db)","(TN, user_events)","(RL, 2)","(id, FIRE_BUTTON_EXECUTED)","(timestamp, 1624595678206)"

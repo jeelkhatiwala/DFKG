@@ -1,0 +1,2 @@
+PID,DN,DP,TN,RL,iccid,carrier_id,sim_state,cpid,expiration_time,notification_stats,consent_record,sim_extra
+"(PID, com.google.android.gms)","(DN, MdpSimBasedDatabase)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.google.android.gms/databases/MdpSimBasedDatabase)","(TN, SimCardTable)","(RL, 1)","(iccid, 8901260275757938976)","(carrier_id, 589634)","(sim_state, None)","(cpid, djra4zxsQ6iNXAkowFedB8DfGtW7F1KGOFDTdhiSLkM=)","(expiration_time, 1658212168)","(notification_stats, None)","(consent_record, None)","(sim_extra, CgMzMTASAzI2MEDog/iHBg==)"

@@ -1,0 +1,2 @@
+PID,DN,DP,TN,RL,_id,friendRowId,userId,addSource,added,ignored,hasViewed
+"(PID, com.snapchat.android)","(DN, main.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data_mirror/data_ce/null/0/com.snapchat.android/databases/main.db)","(TN, FriendWhoAddedMe)","(RL, 1)","(_id, 10)","(friendRowId, 5)","(userId, 62e75dbe-f72a-4e46-8a91-490335355d53)","(addSource, )","(added, 1)","(ignored, 0)","(hasViewed, 0)"

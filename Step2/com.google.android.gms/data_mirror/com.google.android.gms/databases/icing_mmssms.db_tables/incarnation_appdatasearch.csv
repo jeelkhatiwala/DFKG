@@ -1,0 +1,2 @@
+PID,DN,DP,TN,RL,corpus_name,incarnation,seqno_table_complete
+"(PID, com.google.android.gms)","(DN, icing_mmssms.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data_mirror/data_ce/null/0/com.google.android.gms/databases/icing_mmssms.db)","(TN, incarnation_appdatasearch)","(RL, 1)","(corpus_name, sms)","(incarnation, 1611196545981-d8dbb3fe39756cd)","(seqno_table_complete, 0)"

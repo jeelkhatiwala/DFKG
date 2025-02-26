@@ -1,0 +1,3 @@
+PID,DN,DP,TN,RL,_id,owner_id,name,value
+"(PID, com.google.android.gms)","(DN, pluscontacts.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data_mirror/data_ce/null/0/com.google.android.gms/databases/pluscontacts.db)","(TN, sync_tokens)","(RL, 1)","(_id, 43)","(owner_id, 1)","(name, me)","(value, %Eg0BAgMJCxAuNjc4OTs8GgMBBQc=)"
+"(PID, com.google.android.gms)","(DN, pluscontacts.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data_mirror/data_ce/null/0/com.google.android.gms/databases/pluscontacts.db)","(TN, sync_tokens)","(RL, 2)","(_id, 44)","(owner_id, 1)","(name, autocomplete)","(value, CMKBmfusLxIBMRiBFQ)"

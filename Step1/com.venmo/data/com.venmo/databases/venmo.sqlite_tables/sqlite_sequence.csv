@@ -1,0 +1,2 @@
+PID,DN,DP,TN,RL,name,seq
+"(PID, com.venmo)","(DN, venmo.sqlite)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.venmo/databases/venmo.sqlite)","(TN, sqlite_sequence)","(RL, 1)","(name, table_person)","(seq, 3)"

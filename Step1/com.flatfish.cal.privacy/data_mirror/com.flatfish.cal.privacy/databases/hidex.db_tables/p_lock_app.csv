@@ -1,0 +1,5 @@
+PID,DN,DP,TN,RL,id,packageName,isActive
+"(PID, com.flatfish.cal.privacy)","(DN, hidex.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data_mirror/data_ce/null/0/com.flatfish.cal.privacy/databases/hidex.db)","(TN, p_lock_app)","(RL, 1)","(id, 1)","(packageName, com.whatsapp)","(isActive, 1)"
+"(PID, com.flatfish.cal.privacy)","(DN, hidex.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data_mirror/data_ce/null/0/com.flatfish.cal.privacy/databases/hidex.db)","(TN, p_lock_app)","(RL, 2)","(id, 2)","(packageName, com.sec.android.gallery3d)","(isActive, 1)"
+"(PID, com.flatfish.cal.privacy)","(DN, hidex.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data_mirror/data_ce/null/0/com.flatfish.cal.privacy/databases/hidex.db)","(TN, p_lock_app)","(RL, 3)","(id, 3)","(packageName, catching.cheatingspouseapp.app)","(isActive, 1)"
+"(PID, com.flatfish.cal.privacy)","(DN, hidex.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data_mirror/data_ce/null/0/com.flatfish.cal.privacy/databases/hidex.db)","(TN, p_lock_app)","(RL, 4)","(id, 4)","(packageName, com.androidrocker.voicechanger)","(isActive, 1)"

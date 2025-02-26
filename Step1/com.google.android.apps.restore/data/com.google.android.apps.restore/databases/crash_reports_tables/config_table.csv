@@ -1,0 +1,4 @@
+PID,DN,DP,TN,RL,config,value
+"(PID, com.google.android.apps.restore)","(DN, crash_reports)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.google.android.apps.restore/databases/crash_reports)","(TN, config_table)","(RL, 1)","(config, burst_size)","(value, 5)"
+"(PID, com.google.android.apps.restore)","(DN, crash_reports)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.google.android.apps.restore/databases/crash_reports)","(TN, config_table)","(RL, 2)","(config, burst_start_time)","(value, 1626903638829)"
+"(PID, com.google.android.apps.restore)","(DN, crash_reports)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.google.android.apps.restore/databases/crash_reports)","(TN, config_table)","(RL, 3)","(config, alarm_pending)","(value, 0)"

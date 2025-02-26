@@ -1,0 +1,4 @@
+PID,DN,DP,TN,RL,key,value
+"(PID, com.android.chrome)","(DN, Media History)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.android.chrome/app_chrome/Default/Media History)","(TN, meta)","(RL, 1)","(key, mmap_status)","(value, -1)"
+"(PID, com.android.chrome)","(DN, Media History)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.android.chrome/app_chrome/Default/Media History)","(TN, meta)","(RL, 2)","(key, last_compatible_version)","(value, 1)"
+"(PID, com.android.chrome)","(DN, Media History)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.android.chrome/app_chrome/Default/Media History)","(TN, meta)","(RL, 3)","(key, version)","(value, 6)"

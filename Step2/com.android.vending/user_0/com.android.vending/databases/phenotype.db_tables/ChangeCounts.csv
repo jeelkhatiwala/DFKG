@@ -1,0 +1,4 @@
+PID,DN,DP,TN,RL,packageName,count
+"(PID, com.android.vending)","(DN, phenotype.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.android.vending/databases/phenotype.db)","(TN, ChangeCounts)","(RL, 1)","(packageName, com.google.android.finsky.stable)","(count, 121)"
+"(PID, com.android.vending)","(DN, phenotype.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.android.vending/databases/phenotype.db)","(TN, ChangeCounts)","(RL, 2)","(packageName, __sync)","(count, 247)"
+"(PID, com.android.vending)","(DN, phenotype.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.android.vending/databases/phenotype.db)","(TN, ChangeCounts)","(RL, 3)","(packageName, com.google.android.finsky.regular)","(count, 167)"

@@ -1,0 +1,2 @@
+PID,DN,DP,TN,RL,package_name,package_signature,auto_updates,notif_update_available,notif_update_installed,rollout_token,terms_of_service_accepted
+"(PID, com.facebook.appmanager)","(DN, first_party_settings)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.facebook.appmanager/databases/first_party_settings)","(TN, settings)","(RL, 1)","(package_name, com.facebook.katana)","(package_signature, ijxLJi1yGs1JpL-X1SExmchvork)","(auto_updates, 1)","(notif_update_available, 1)","(notif_update_installed, 1)","(rollout_token, None)","(terms_of_service_accepted, 1)"

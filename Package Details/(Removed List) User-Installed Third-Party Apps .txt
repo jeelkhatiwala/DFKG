@@ -1,0 +1,5 @@
+com.test.LTEfunctionality (Removable - Likely a network test tool, does not contain user data.)
+com.vzw.apnlib (Removable - Verizon’s APN configuration, does not store user logs.)
+com.wsomacp (Removable - Samsung-related service, no forensic value.)
+com.wssyncmldm (Removable - Handles firmware updates, does not store user interactions.)
+gov.vdh.exposurenotification (Removable - COVID-19 tracing app, anonymized data, no user-specific logs.)

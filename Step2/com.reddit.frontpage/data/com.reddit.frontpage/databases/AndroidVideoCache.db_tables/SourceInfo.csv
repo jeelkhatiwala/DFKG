@@ -1,0 +1,4 @@
+PID,DN,DP,TN,RL,_id,url,mime,length
+"(PID, com.reddit.frontpage)","(DN, AndroidVideoCache.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.reddit.frontpage/databases/AndroidVideoCache.db)","(TN, SourceInfo)","(RL, 1)","(_id, 1)","(url, https://v.redd.it/ns7dincr65371/DASH_720.mp4)","(mime, video/mp4)","(length, 2490677)"
+"(PID, com.reddit.frontpage)","(DN, AndroidVideoCache.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.reddit.frontpage/databases/AndroidVideoCache.db)","(TN, SourceInfo)","(RL, 2)","(_id, 2)","(url, https://v.redd.it/ns7dincr65371/DASH_audio.mp4)","(mime, video/mp4)","(length, 148017)"
+"(PID, com.reddit.frontpage)","(DN, AndroidVideoCache.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.reddit.frontpage/databases/AndroidVideoCache.db)","(TN, SourceInfo)","(RL, 3)","(_id, 3)","(url, https://v.redd.it/snvh1ixfvi171/DASH_720.mp4)","(mime, video/mp4)","(length, 1409582)"

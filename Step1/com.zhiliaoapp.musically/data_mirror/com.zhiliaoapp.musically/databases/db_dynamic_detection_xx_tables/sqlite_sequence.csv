@@ -1,0 +1,2 @@
+PID,DN,DP,TN,RL,name,seq
+"(PID, com.zhiliaoapp.musically)","(DN, db_dynamic_detection_xx)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data_mirror/data_ce/null/0/com.zhiliaoapp.musically/databases/db_dynamic_detection_xx)","(TN, sqlite_sequence)","(RL, 1)","(name, DYNAMIC_DETECTION_TIME_LINE_EVENT)","(seq, 299)"

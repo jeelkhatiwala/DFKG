@@ -1,0 +1,3 @@
+PID,DN,DP,TN,RL,notificationId
+"(PID, com.duckduckgo.mobile.android)","(DN, app.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.duckduckgo.mobile.android/databases/app.db)","(TN, notification)","(RL, 1)","(notificationId, com.duckduckgo.privacy.privacyprotection)"
+"(PID, com.duckduckgo.mobile.android)","(DN, app.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.duckduckgo.mobile.android/databases/app.db)","(TN, notification)","(RL, 2)","(notificationId, com.duckduckgo.privacytips.autoclear)"

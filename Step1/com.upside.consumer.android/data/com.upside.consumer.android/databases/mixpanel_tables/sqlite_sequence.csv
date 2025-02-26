@@ -1,0 +1,4 @@
+PID,DN,DP,TN,RL,name,seq
+"(PID, com.upside.consumer.android)","(DN, mixpanel)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.upside.consumer.android/databases/mixpanel)","(TN, sqlite_sequence)","(RL, 1)","(name, events)","(seq, 192)"
+"(PID, com.upside.consumer.android)","(DN, mixpanel)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.upside.consumer.android/databases/mixpanel)","(TN, sqlite_sequence)","(RL, 2)","(name, anonymous_people)","(seq, 2)"
+"(PID, com.upside.consumer.android)","(DN, mixpanel)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.upside.consumer.android/databases/mixpanel)","(TN, sqlite_sequence)","(RL, 3)","(name, people)","(seq, 291)"

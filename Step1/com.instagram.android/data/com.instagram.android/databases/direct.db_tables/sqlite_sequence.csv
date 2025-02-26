@@ -1,0 +1,4 @@
+PID,DN,DP,TN,RL,name,seq
+"(PID, com.instagram.android)","(DN, direct.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.instagram.android/databases/direct.db)","(TN, sqlite_sequence)","(RL, 1)","(name, mutations)","(seq, 18)"
+"(PID, com.instagram.android)","(DN, direct.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.instagram.android/databases/direct.db)","(TN, sqlite_sequence)","(RL, 2)","(name, threads)","(seq, 16)"
+"(PID, com.instagram.android)","(DN, direct.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.instagram.android/databases/direct.db)","(TN, sqlite_sequence)","(RL, 3)","(name, messages)","(seq, 104)"

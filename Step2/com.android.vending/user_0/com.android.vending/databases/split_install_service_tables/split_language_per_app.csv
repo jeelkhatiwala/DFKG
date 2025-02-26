@@ -1,0 +1,2 @@
+PID,DN,DP,TN,RL,package_name,pk,language_name,data
+"(PID, com.android.vending)","(DN, split_install_service)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.android.vending/databases/split_install_service)","(TN, split_language_per_app)","(RL, 1)","(package_name, com.google.android.googlequicksearchbox)","(pk, com.google.android.googlequicksearchbox:en-US)","(language_name, en-US)","(data, Cidjb20uZ29vZ2xlLmFuZHJvaWQuZ29vZ2xlcXVpY2tzZWFyY2hib3gSBWVuLVVT)"

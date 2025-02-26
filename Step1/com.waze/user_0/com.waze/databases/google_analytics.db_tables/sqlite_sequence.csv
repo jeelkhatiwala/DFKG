@@ -1,0 +1,2 @@
+PID,DN,DP,TN,RL,name,seq
+"(PID, com.waze)","(DN, google_analytics.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.waze/databases/google_analytics.db)","(TN, sqlite_sequence)","(RL, 1)","(name, custom_var_cache)","(seq, 5)"

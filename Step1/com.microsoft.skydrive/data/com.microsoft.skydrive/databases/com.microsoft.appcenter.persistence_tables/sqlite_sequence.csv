@@ -1,0 +1,2 @@
+PID,DN,DP,TN,RL,name,seq
+"(PID, com.microsoft.skydrive)","(DN, com.microsoft.appcenter.persistence)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.microsoft.skydrive/databases/com.microsoft.appcenter.persistence)","(TN, sqlite_sequence)","(RL, 1)","(name, logs)","(seq, 205)"

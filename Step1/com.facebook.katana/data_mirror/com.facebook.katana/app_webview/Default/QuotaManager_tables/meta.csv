@@ -1,0 +1,4 @@
+PID,DN,DP,TN,RL,key,value
+"(PID, com.facebook.katana)","(DN, QuotaManager)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data_mirror/data_ce/null/0/com.facebook.katana/app_webview/Default/QuotaManager)","(TN, meta)","(RL, 1)","(key, mmap_status)","(value, -1)"
+"(PID, com.facebook.katana)","(DN, QuotaManager)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data_mirror/data_ce/null/0/com.facebook.katana/app_webview/Default/QuotaManager)","(TN, meta)","(RL, 2)","(key, version)","(value, 5)"
+"(PID, com.facebook.katana)","(DN, QuotaManager)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data_mirror/data_ce/null/0/com.facebook.katana/app_webview/Default/QuotaManager)","(TN, meta)","(RL, 3)","(key, last_compatible_version)","(value, 2)"

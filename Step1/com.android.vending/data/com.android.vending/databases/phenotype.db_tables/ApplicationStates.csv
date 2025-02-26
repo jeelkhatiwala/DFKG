@@ -1,0 +1,3 @@
+PID,DN,DP,TN,RL,packageName,user,version,patchable
+"(PID, com.android.vending)","(DN, phenotype.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.android.vending/databases/phenotype.db)","(TN, ApplicationStates)","(RL, 1)","(packageName, com.google.android.finsky.stable)","(user, heisenbergcarro@gmail.com)","(version, 82622210)","(patchable, None)"
+"(PID, com.android.vending)","(DN, phenotype.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.android.vending/databases/phenotype.db)","(TN, ApplicationStates)","(RL, 2)","(packageName, com.google.android.finsky.regular)","(user, )","(version, 82622210)","(patchable, None)"

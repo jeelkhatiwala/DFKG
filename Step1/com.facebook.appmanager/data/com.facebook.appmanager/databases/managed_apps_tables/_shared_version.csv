@@ -1,0 +1,4 @@
+PID,DN,DP,TN,RL,name,version
+"(PID, com.facebook.appmanager)","(DN, managed_apps)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.facebook.appmanager/databases/managed_apps)","(TN, _shared_version)","(RL, 1)","(name, managed_apps_schema)","(version, 1)"
+"(PID, com.facebook.appmanager)","(DN, managed_apps)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.facebook.appmanager/databases/managed_apps)","(TN, _shared_version)","(RL, 2)","(name, app_build_number)","(version, 297675409)"
+"(PID, com.facebook.appmanager)","(DN, managed_apps)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.facebook.appmanager/databases/managed_apps)","(TN, _shared_version)","(RL, 3)","(name, app_upgrade_time)","(version, 1624984808792)"

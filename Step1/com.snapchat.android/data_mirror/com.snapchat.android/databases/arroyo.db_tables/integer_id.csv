@@ -1,0 +1,4 @@
+PID,DN,DP,TN,RL,id_type,id_value
+"(PID, com.snapchat.android)","(DN, arroyo.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data_mirror/data_ce/null/0/com.snapchat.android/databases/arroyo.db)","(TN, integer_id)","(RL, 1)","(id_type, 0)","(id_value, 512)"
+"(PID, com.snapchat.android)","(DN, arroyo.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data_mirror/data_ce/null/0/com.snapchat.android/databases/arroyo.db)","(TN, integer_id)","(RL, 2)","(id_type, 1)","(id_value, 64)"
+"(PID, com.snapchat.android)","(DN, arroyo.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data_mirror/data_ce/null/0/com.snapchat.android/databases/arroyo.db)","(TN, integer_id)","(RL, 3)","(id_type, 2)","(id_value, 320)"

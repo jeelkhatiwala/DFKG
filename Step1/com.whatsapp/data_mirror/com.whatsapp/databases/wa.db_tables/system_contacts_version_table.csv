@@ -1,0 +1,4 @@
+PID,DN,DP,TN,RL,id,version
+"(PID, com.whatsapp)","(DN, wa.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data_mirror/data_ce/null/0/com.whatsapp/databases/wa.db)","(TN, system_contacts_version_table)","(RL, 1)","(id, 1)","(version, 3)"
+"(PID, com.whatsapp)","(DN, wa.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data_mirror/data_ce/null/0/com.whatsapp/databases/wa.db)","(TN, system_contacts_version_table)","(RL, 2)","(id, 2)","(version, 3)"
+"(PID, com.whatsapp)","(DN, wa.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data_mirror/data_ce/null/0/com.whatsapp/databases/wa.db)","(TN, system_contacts_version_table)","(RL, 3)","(id, 3)","(version, 3)"

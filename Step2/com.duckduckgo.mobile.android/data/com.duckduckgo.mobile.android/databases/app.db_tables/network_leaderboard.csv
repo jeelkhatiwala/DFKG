@@ -1,0 +1,3 @@
+PID,DN,DP,TN,RL,networkName,count
+"(PID, com.duckduckgo.mobile.android)","(DN, app.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.duckduckgo.mobile.android/databases/app.db)","(TN, network_leaderboard)","(RL, 1)","(networkName, Google LLC)","(count, 29)"
+"(PID, com.duckduckgo.mobile.android)","(DN, app.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.duckduckgo.mobile.android/databases/app.db)","(TN, network_leaderboard)","(RL, 2)","(networkName, Facebook, Inc.)","(count, 2)"

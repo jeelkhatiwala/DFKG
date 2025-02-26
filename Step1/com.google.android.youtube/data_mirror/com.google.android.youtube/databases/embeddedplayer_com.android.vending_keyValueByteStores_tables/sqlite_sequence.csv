@@ -1,0 +1,2 @@
+PID,DN,DP,TN,RL,name,seq
+"(PID, com.google.android.youtube)","(DN, embeddedplayer_com.android.vending_keyValueByteStores)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data_mirror/data_ce/null/0/com.google.android.youtube/databases/embeddedplayer_com.android.vending_keyValueByteStores)","(TN, sqlite_sequence)","(RL, 1)","(name, OfflineHttpRequestProto)","(seq, 117)"

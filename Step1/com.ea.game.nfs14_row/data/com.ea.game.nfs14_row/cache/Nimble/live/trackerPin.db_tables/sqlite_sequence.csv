@@ -1,0 +1,4 @@
+PID,DN,DP,TN,RL,name,seq
+"(PID, com.ea.game.nfs14_row)","(DN, trackerPin.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.ea.game.nfs14_row/cache/Nimble/live/trackerPin.db)","(TN, sqlite_sequence)","(RL, 1)","(name, session)","(seq, 7)"
+"(PID, com.ea.game.nfs14_row)","(DN, trackerPin.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.ea.game.nfs14_row/cache/Nimble/live/trackerPin.db)","(TN, sqlite_sequence)","(RL, 2)","(name, context)","(seq, 8)"
+"(PID, com.ea.game.nfs14_row)","(DN, trackerPin.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.ea.game.nfs14_row/cache/Nimble/live/trackerPin.db)","(TN, sqlite_sequence)","(RL, 3)","(name, event)","(seq, 8)"

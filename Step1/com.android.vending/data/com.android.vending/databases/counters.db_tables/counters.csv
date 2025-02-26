@@ -1,0 +1,6 @@
+PID,DN,DP,TN,RL,day,counter_type,counter_value
+"(PID, com.android.vending)","(DN, counters.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.android.vending/databases/counters.db)","(TN, counters)","(RL, 1)","(day, 2021-07-22)","(counter_type, 1743)","(counter_value, 2)"
+"(PID, com.android.vending)","(DN, counters.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.android.vending/databases/counters.db)","(TN, counters)","(RL, 2)","(day, 2021-07-22)","(counter_type, 1101)","(counter_value, 6)"
+"(PID, com.android.vending)","(DN, counters.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.android.vending/databases/counters.db)","(TN, counters)","(RL, 3)","(day, 2021-07-22)","(counter_type, 548)","(counter_value, 6)"
+"(PID, com.android.vending)","(DN, counters.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.android.vending/databases/counters.db)","(TN, counters)","(RL, 4)","(day, 2021-07-22)","(counter_type, 549)","(counter_value, 6)"
+"(PID, com.android.vending)","(DN, counters.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.android.vending/databases/counters.db)","(TN, counters)","(RL, 5)","(day, 2021-07-22)","(counter_type, 26)","(counter_value, 7)"

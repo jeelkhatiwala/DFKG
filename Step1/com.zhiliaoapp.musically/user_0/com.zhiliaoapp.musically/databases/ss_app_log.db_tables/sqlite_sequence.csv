@@ -1,0 +1,6 @@
+PID,DN,DP,TN,RL,name,seq
+"(PID, com.zhiliaoapp.musically)","(DN, ss_app_log.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.zhiliaoapp.musically/databases/ss_app_log.db)","(TN, sqlite_sequence)","(RL, 1)","(name, session)","(seq, 2063)"
+"(PID, com.zhiliaoapp.musically)","(DN, ss_app_log.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.zhiliaoapp.musically/databases/ss_app_log.db)","(TN, sqlite_sequence)","(RL, 2)","(name, event)","(seq, 43242)"
+"(PID, com.zhiliaoapp.musically)","(DN, ss_app_log.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.zhiliaoapp.musically/databases/ss_app_log.db)","(TN, sqlite_sequence)","(RL, 3)","(name, misc_log)","(seq, 6610)"
+"(PID, com.zhiliaoapp.musically)","(DN, ss_app_log.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.zhiliaoapp.musically/databases/ss_app_log.db)","(TN, sqlite_sequence)","(RL, 4)","(name, page)","(seq, 130)"
+"(PID, com.zhiliaoapp.musically)","(DN, ss_app_log.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.zhiliaoapp.musically/databases/ss_app_log.db)","(TN, sqlite_sequence)","(RL, 5)","(name, queue)","(seq, 2709)"

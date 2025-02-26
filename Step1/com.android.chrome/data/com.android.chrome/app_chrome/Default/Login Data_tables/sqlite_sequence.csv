@@ -1,0 +1,2 @@
+PID,DN,DP,TN,RL,name,seq
+"(PID, com.android.chrome)","(DN, Login Data)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.android.chrome/app_chrome/Default/Login Data)","(TN, sqlite_sequence)","(RL, 1)","(name, logins)","(seq, 0)"

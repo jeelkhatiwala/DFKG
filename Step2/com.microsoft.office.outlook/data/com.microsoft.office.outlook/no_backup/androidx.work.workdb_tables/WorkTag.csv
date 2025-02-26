@@ -1,0 +1,3 @@
+PID,DN,DP,TN,RL,tag,work_spec_id
+"(PID, com.microsoft.office.outlook)","(DN, androidx.work.workdb)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.microsoft.office.outlook/no_backup/androidx.work.workdb)","(TN, WorkTag)","(RL, 1)","(tag, com.microsoft.office.outlook.calendar.workers.EventNotificationWorker)","(work_spec_id, c6544384-fcd4-485c-90ee-be814b3f8919)"
+"(PID, com.microsoft.office.outlook)","(DN, androidx.work.workdb)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.microsoft.office.outlook/no_backup/androidx.work.workdb)","(TN, WorkTag)","(RL, 2)","(tag, EventNotificationWorker_Boot)","(work_spec_id, c6544384-fcd4-485c-90ee-be814b3f8919)"

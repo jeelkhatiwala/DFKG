@@ -1,0 +1,7 @@
+PID,DN,DP,TN,RL,name,seq
+"(PID, com.whatsapp)","(DN, msgstore.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.whatsapp/databases/msgstore.db)","(TN, sqlite_sequence)","(RL, 1)","(name, props)","(seq, 197)"
+"(PID, com.whatsapp)","(DN, msgstore.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.whatsapp/databases/msgstore.db)","(TN, sqlite_sequence)","(RL, 2)","(name, message)","(seq, 1)"
+"(PID, com.whatsapp)","(DN, msgstore.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.whatsapp/databases/msgstore.db)","(TN, sqlite_sequence)","(RL, 3)","(name, messages)","(seq, 15)"
+"(PID, com.whatsapp)","(DN, msgstore.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.whatsapp/databases/msgstore.db)","(TN, sqlite_sequence)","(RL, 4)","(name, jid)","(seq, 6)"
+"(PID, com.whatsapp)","(DN, msgstore.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.whatsapp/databases/msgstore.db)","(TN, sqlite_sequence)","(RL, 5)","(name, chat)","(seq, 3)"
+"(PID, com.whatsapp)","(DN, msgstore.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.whatsapp/databases/msgstore.db)","(TN, sqlite_sequence)","(RL, 6)","(name, status)","(seq, 1)"

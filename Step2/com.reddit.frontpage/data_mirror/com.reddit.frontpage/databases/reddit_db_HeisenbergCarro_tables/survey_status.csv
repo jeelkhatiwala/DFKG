@@ -1,0 +1,3 @@
+PID,DN,DP,TN,RL,surveyId,triggerCount
+"(PID, com.reddit.frontpage)","(DN, reddit_db_HeisenbergCarro)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data_mirror/data_ce/null/0/com.reddit.frontpage/databases/reddit_db_HeisenbergCarro)","(TN, survey_status)","(RL, 1)","(surveyId, survey_demo_csat_1)","(triggerCount, 1)"
+"(PID, com.reddit.frontpage)","(DN, reddit_db_HeisenbergCarro)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data_mirror/data_ce/null/0/com.reddit.frontpage/databases/reddit_db_HeisenbergCarro)","(TN, survey_status)","(RL, 2)","(surveyId, android_nps_survey_dismiss_post_trigger)","(triggerCount, 4)"

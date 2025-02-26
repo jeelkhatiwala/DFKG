@@ -1,0 +1,2 @@
+PID,DN,DP,TN,RL,timestamp_first,timestamp_previous,timestamp_current,visits,store_id
+"(PID, com.waze)","(DN, google_analytics.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.waze/databases/google_analytics.db)","(TN, session)","(RL, 1)","(timestamp_first, 1625260736)","(timestamp_previous, 1625260736)","(timestamp_current, 1625260736)","(visits, 1)","(store_id, 1562458038)"

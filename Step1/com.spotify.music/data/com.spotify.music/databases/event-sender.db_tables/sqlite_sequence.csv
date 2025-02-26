@@ -1,0 +1,2 @@
+PID,DN,DP,TN,RL,name,seq
+"(PID, com.spotify.music)","(DN, event-sender.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.spotify.music/databases/event-sender.db)","(TN, sqlite_sequence)","(RL, 1)","(name, Events)","(seq, 276)"

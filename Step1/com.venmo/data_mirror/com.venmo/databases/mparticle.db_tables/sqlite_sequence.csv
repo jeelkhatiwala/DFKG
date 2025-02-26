@@ -1,0 +1,6 @@
+PID,DN,DP,TN,RL,name,seq
+"(PID, com.venmo)","(DN, mparticle.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data_mirror/data_ce/null/0/com.venmo/databases/mparticle.db)","(TN, sqlite_sequence)","(RL, 1)","(name, messages)","(seq, 181)"
+"(PID, com.venmo)","(DN, mparticle.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data_mirror/data_ce/null/0/com.venmo/databases/mparticle.db)","(TN, sqlite_sequence)","(RL, 2)","(name, sessions)","(seq, 13)"
+"(PID, com.venmo)","(DN, mparticle.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data_mirror/data_ce/null/0/com.venmo/databases/mparticle.db)","(TN, sqlite_sequence)","(RL, 3)","(name, reporting)","(seq, 113)"
+"(PID, com.venmo)","(DN, mparticle.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data_mirror/data_ce/null/0/com.venmo/databases/mparticle.db)","(TN, sqlite_sequence)","(RL, 4)","(name, uploads)","(seq, 27)"
+"(PID, com.venmo)","(DN, mparticle.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data_mirror/data_ce/null/0/com.venmo/databases/mparticle.db)","(TN, sqlite_sequence)","(RL, 5)","(name, attributes)","(seq, 4)"

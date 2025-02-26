@@ -1,0 +1,5 @@
+PID,DN,DP,TN,RL,_id,etag
+"(PID, com.snapchat.android)","(DN, core.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.snapchat.android/databases/core.db)","(TN, ConfigEtag)","(RL, 1)","(_id, 0)","(etag, hHo07tbBBmhs4EQjZBrEgA==)"
+"(PID, com.snapchat.android)","(DN, core.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.snapchat.android/databases/core.db)","(TN, ConfigEtag)","(RL, 2)","(_id, 1)","(etag, )"
+"(PID, com.snapchat.android)","(DN, core.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.snapchat.android/databases/core.db)","(TN, ConfigEtag)","(RL, 3)","(_id, 2)","(etag, US)"
+"(PID, com.snapchat.android)","(DN, core.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.snapchat.android/databases/core.db)","(TN, ConfigEtag)","(RL, 4)","(_id, 3)","(etag, US)"

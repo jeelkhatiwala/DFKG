@@ -1,0 +1,2 @@
+PID,DN,DP,TN,RL,_id,friendRowId,displayName,phone,lastModifiedTimestamp,isSnapchatter,added
+"(PID, com.snapchat.android)","(DN, main.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.snapchat.android/databases/main.db)","(TN, Contact)","(RL, 1)","(_id, 12)","(friendRowId, None)","(displayName, Voice Mail)","(phone, +1 805-637-7243)","(lastModifiedTimestamp, 1617476960077)","(isSnapchatter, 0)","(added, 0)"

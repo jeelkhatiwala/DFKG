@@ -1,0 +1,2 @@
+PID,DN,DP,TN,RL,package_name,package_signature,process_name,asl_session_id,expiration_millis_since_epoch
+"(PID, com.facebook.appmanager)","(DN, first_party_crashreporter)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.facebook.appmanager/databases/first_party_crashreporter)","(TN, crashreporter)","(RL, 1)","(package_name, com.facebook.katana)","(package_signature, ijxLJi1yGs1JpL-X1SExmchvork)","(process_name, com.facebook.katana)","(asl_session_id, 1621123966787-7030d694-17f9-a8f9-0efc-371f65d3856f)","(expiration_millis_since_epoch, 1621210374294)"

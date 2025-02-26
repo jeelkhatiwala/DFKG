@@ -1,0 +1,3 @@
+PID,DN,DP,TN,RL,logSourceName,packageName
+"(PID, com.android.vending)","(DN, phenotype.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.android.vending/databases/phenotype.db)","(TN, LogSources)","(RL, 1)","(logSourceName, FinskyDummy)","(packageName, com.google.android.finsky.stable)"
+"(PID, com.android.vending)","(DN, phenotype.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.android.vending/databases/phenotype.db)","(TN, LogSources)","(RL, 2)","(logSourceName, FinskyDummy)","(packageName, com.google.android.finsky.regular)"

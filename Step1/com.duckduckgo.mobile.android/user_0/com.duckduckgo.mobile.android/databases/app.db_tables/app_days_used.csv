@@ -1,0 +1,4 @@
+PID,DN,DP,TN,RL,date
+"(PID, com.duckduckgo.mobile.android)","(DN, app.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.duckduckgo.mobile.android/databases/app.db)","(TN, app_days_used)","(RL, 1)","(date, 2021-04-14)"
+"(PID, com.duckduckgo.mobile.android)","(DN, app.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.duckduckgo.mobile.android/databases/app.db)","(TN, app_days_used)","(RL, 2)","(date, 2021-06-25)"
+"(PID, com.duckduckgo.mobile.android)","(DN, app.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.duckduckgo.mobile.android/databases/app.db)","(TN, app_days_used)","(RL, 3)","(date, 2021-07-02)"

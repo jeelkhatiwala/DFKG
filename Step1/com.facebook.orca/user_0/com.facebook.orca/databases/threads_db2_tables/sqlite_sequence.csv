@@ -1,0 +1,4 @@
+PID,DN,DP,TN,RL,name,seq
+"(PID, com.facebook.orca)","(DN, threads_db2)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.facebook.orca/databases/threads_db2)","(TN, sqlite_sequence)","(RL, 1)","(name, sqliteproc_schema)","(seq, 1281)"
+"(PID, com.facebook.orca)","(DN, threads_db2)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.facebook.orca/databases/threads_db2)","(TN, sqlite_sequence)","(RL, 2)","(name, sqliteproc_metadata)","(seq, 36)"
+"(PID, com.facebook.orca)","(DN, threads_db2)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.facebook.orca/databases/threads_db2)","(TN, sqlite_sequence)","(RL, 3)","(name, properties)","(seq, 1)"

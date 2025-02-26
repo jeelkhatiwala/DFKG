@@ -1,0 +1,2 @@
+PID,DN,DP,TN,RL,name,seq
+"(PID, com.google.android.youtube)","(DN, google_conversion_tracking.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.google.android.youtube/databases/google_conversion_tracking.db)","(TN, sqlite_sequence)","(RL, 1)","(name, conversiontracking)","(seq, 151)"

@@ -1,0 +1,2 @@
+PID,DN,DP,TN,RL,account,channel_key,local_writes,last_sync_timestamp,channel_id
+"(PID, com.google.android.gms)","(DN, icing-mdh.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.google.android.gms/databases/icing-mdh.db)","(TN, wipeout)","(RL, 1)","(account, heisenbergcarro@gmail.com)","(channel_key, fs:837:190536965:2)","(local_writes, 0)","(last_sync_timestamp, 1624867113371)","(channel_id, EgoIxQYQhbrtWhgC)"

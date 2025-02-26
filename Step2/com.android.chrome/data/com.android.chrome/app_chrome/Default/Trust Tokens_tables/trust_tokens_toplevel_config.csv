@@ -1,0 +1,4 @@
+PID,DN,DP,TN,RL,key,proto
+"(PID, com.android.chrome)","(DN, Trust Tokens)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.android.chrome/app_chrome/Default/Trust Tokens)","(TN, trust_tokens_toplevel_config)","(RL, 1)","(key, https://www.google.com)","(proto, ChxodHRwczovL2Fkc2VydmljZS5nb29nbGUuY29t)"
+"(PID, com.android.chrome)","(DN, Trust Tokens)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.android.chrome/app_chrome/Default/Trust Tokens)","(TN, trust_tokens_toplevel_config)","(RL, 2)","(key, https://www.edmunds.com)","(proto, ChxodHRwczovL2Fkc2VydmljZS5nb29nbGUuY29t)"
+"(PID, com.android.chrome)","(DN, Trust Tokens)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.android.chrome/app_chrome/Default/Trust Tokens)","(TN, trust_tokens_toplevel_config)","(RL, 3)","(key, https://www.yellowpages.com)","(proto, ChxodHRwczovL2Fkc2VydmljZS5nb29nbGUuY29t)"

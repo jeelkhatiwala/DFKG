@@ -1,0 +1,2 @@
+PID,DN,DP,TN,RL,name,value,value_lower,date_created,date_last_used,count
+"(PID, com.android.chrome)","(DN, Web Data)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.android.chrome/app_chrome/Default/Web Data)","(TN, autofill)","(RL, 1)","(name, zipCode)","(value, 24060)","(value_lower, 24060)","(date_created, 1625715792)","(date_last_used, 1625715792)","(count, 1)"

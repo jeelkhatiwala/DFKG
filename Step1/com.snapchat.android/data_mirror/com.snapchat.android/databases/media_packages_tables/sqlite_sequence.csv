@@ -1,0 +1,2 @@
+PID,DN,DP,TN,RL,name,seq
+"(PID, com.snapchat.android)","(DN, media_packages)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data_mirror/data_ce/null/0/com.snapchat.android/databases/media_packages)","(TN, sqlite_sequence)","(RL, 1)","(name, media_package)","(seq, 12)"

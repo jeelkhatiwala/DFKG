@@ -1,0 +1,2 @@
+PID,DN,DP,TN,RL,row_id,view_type,clusters_row_id,sync_reason_type,server_version,page_id,items_row_id,server_version_2
+"(PID, com.google.android.gm)","(DN, bigTopDataDB.-1285600966)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data_mirror/data_ce/null/0/com.google.android.gm/databases/bigTopDataDB.-1285600966)","(TN, sync_reasons)","(RL, 1)","(row_id, 1)","(view_type, None)","(clusters_row_id, None)","(sync_reason_type, 2)","(server_version, None)","(page_id, -)","(items_row_id, None)","(server_version_2, None)"

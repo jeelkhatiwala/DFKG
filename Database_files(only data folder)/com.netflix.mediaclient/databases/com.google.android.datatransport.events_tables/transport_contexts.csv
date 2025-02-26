@@ -1,4 +1,0 @@
-Package Name,Original Database Name,Original Path of Database,Table Name,Line ID,_id,backend_name,priority,next_request_ms,extras
-"(Package Name, com.netflix.mediaclient)","(Original Database Name, com.google.android.datatransport.events)","(Original Path of Database, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.netflix.mediaclient/databases/com.google.android.datatransport.events)","(Table Name, transport_contexts)","(Line ID, 1)","(_id, 1)","(backend_name, cct)","(priority, 1)","(next_request_ms, 1624583193799)","(extras, MSRodHRwczovL2ZpcmViYXNlbG9nZ2luZy5nb29nbGVhcGlzLmNvbS92MGNjL2xvZy9iYXRjaD9m
-b3JtYXQ9anNvbl9wcm90bzNc
-)"

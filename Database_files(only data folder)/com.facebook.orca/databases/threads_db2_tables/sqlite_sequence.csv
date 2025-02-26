@@ -1,4 +1,0 @@
-Package Name,Original Database Name,Original Path of Database,Table Name,Line ID,name,seq
-"(Package Name, com.facebook.orca)","(Original Database Name, threads_db2)","(Original Path of Database, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.facebook.orca/databases/threads_db2)","(Table Name, sqlite_sequence)","(Line ID, 1)","(name, sqliteproc_schema)","(seq, 1281)"
-"(Package Name, com.facebook.orca)","(Original Database Name, threads_db2)","(Original Path of Database, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.facebook.orca/databases/threads_db2)","(Table Name, sqlite_sequence)","(Line ID, 2)","(name, sqliteproc_metadata)","(seq, 36)"
-"(Package Name, com.facebook.orca)","(Original Database Name, threads_db2)","(Original Path of Database, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.facebook.orca/databases/threads_db2)","(Table Name, sqlite_sequence)","(Line ID, 3)","(name, properties)","(seq, 1)"

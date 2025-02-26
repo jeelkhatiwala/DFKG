@@ -1,0 +1,11 @@
+PID,DN,DP,TN,RL,id,name,seoName
+"(PID, com.carfax.consumer)","(DN, room-ucl-db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.carfax.consumer/databases/room-ucl-db)","(TN, body_types)","(RL, 1)","(id, 1)","(name, Chassis)","(seoName, Chassis)"
+"(PID, com.carfax.consumer)","(DN, room-ucl-db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.carfax.consumer/databases/room-ucl-db)","(TN, body_types)","(RL, 2)","(id, 2)","(name, Convertible)","(seoName, Convertible)"
+"(PID, com.carfax.consumer)","(DN, room-ucl-db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.carfax.consumer/databases/room-ucl-db)","(TN, body_types)","(RL, 3)","(id, 3)","(name, Coupe)","(seoName, Coupe)"
+"(PID, com.carfax.consumer)","(DN, room-ucl-db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.carfax.consumer/databases/room-ucl-db)","(TN, body_types)","(RL, 4)","(id, 4)","(name, Hatchback)","(seoName, Hatchback)"
+"(PID, com.carfax.consumer)","(DN, room-ucl-db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.carfax.consumer/databases/room-ucl-db)","(TN, body_types)","(RL, 5)","(id, 5)","(name, Minivan)","(seoName, Minivan)"
+"(PID, com.carfax.consumer)","(DN, room-ucl-db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.carfax.consumer/databases/room-ucl-db)","(TN, body_types)","(RL, 6)","(id, 6)","(name, Pickup)","(seoName, Pickup)"
+"(PID, com.carfax.consumer)","(DN, room-ucl-db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.carfax.consumer/databases/room-ucl-db)","(TN, body_types)","(RL, 7)","(id, 7)","(name, Sedan)","(seoName, Sedan)"
+"(PID, com.carfax.consumer)","(DN, room-ucl-db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.carfax.consumer/databases/room-ucl-db)","(TN, body_types)","(RL, 8)","(id, 8)","(name, SUV)","(seoName, SUV)"
+"(PID, com.carfax.consumer)","(DN, room-ucl-db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.carfax.consumer/databases/room-ucl-db)","(TN, body_types)","(RL, 9)","(id, 9)","(name, Van)","(seoName, Van)"
+"(PID, com.carfax.consumer)","(DN, room-ucl-db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.carfax.consumer/databases/room-ucl-db)","(TN, body_types)","(RL, 10)","(id, 10)","(name, Wagon)","(seoName, Wagon)"

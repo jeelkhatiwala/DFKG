@@ -1,2 +1,0 @@
-Package Name,Original Database Name,Original Path of Database,Table Name,Line ID,CONFIG_KEY,CONFIG_VALUE,CONFIG_LAST_UPDATED
-"(Package Name, com.snapchat.android)","(Original Database Name, contentManagerDb.db)","(Original Path of Database, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.snapchat.android/databases/contentManagerDb.db)","(Table Name, GLOBAL_CONFIG_V2_TABLE)","(Line ID, 1)","(CONFIG_KEY, REPORT_METRICS_DAY)","(CONFIG_VALUE, b'2021-7-14')","(CONFIG_LAST_UPDATED, 1626288029584)"

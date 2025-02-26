@@ -1,0 +1,4 @@
+PID,DN,DP,TN,RL,key,value
+"(PID, com.tmobile.tuesdays)","(DN, Web Data)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.tmobile.tuesdays/app_webview/Default/Web Data)","(TN, meta)","(RL, 1)","(key, mmap_status)","(value, -1)"
+"(PID, com.tmobile.tuesdays)","(DN, Web Data)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.tmobile.tuesdays/app_webview/Default/Web Data)","(TN, meta)","(RL, 2)","(key, last_compatible_version)","(value, 79)"
+"(PID, com.tmobile.tuesdays)","(DN, Web Data)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.tmobile.tuesdays/app_webview/Default/Web Data)","(TN, meta)","(RL, 3)","(key, version)","(value, 92)"

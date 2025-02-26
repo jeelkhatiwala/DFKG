@@ -1,0 +1,2 @@
+PID,DN,DP,TN,RL,environment,proto_bytes
+"(PID, com.google.android.gms)","(DN, pay)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.google.android.gms/databases/pay)","(TN, GlobalValues)","(RL, 1)","(environment, PROD)","(proto_bytes, GAE=)"

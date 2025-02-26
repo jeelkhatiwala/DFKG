@@ -1,0 +1,2 @@
+PID,DN,DP,TN,RL,tbl,idx,stat
+"(PID, com.google.android.apps.photos)","(DN, local_trash.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.google.android.apps.photos/databases/local_trash.db)","(TN, sqlite_stat1)","(RL, 1)","(tbl, android_metadata)","(idx, None)","(stat, 1)"

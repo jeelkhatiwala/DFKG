@@ -1,0 +1,3 @@
+PID,DN,DP,TN,RL,app_name,incarnation
+"(PID, com.google.android.gms)","(DN, icing-indexapi.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data_mirror/data_ce/null/0/com.google.android.gms/databases/icing-indexapi.db)","(TN, incarnation_indexapi)","(RL, 1)","(app_name, com.google.android.gms)","(incarnation, 73d7f3276d0f7f7a)"
+"(PID, com.google.android.gms)","(DN, icing-indexapi.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data_mirror/data_ce/null/0/com.google.android.gms/databases/icing-indexapi.db)","(TN, incarnation_indexapi)","(RL, 2)","(app_name, com.google.android.apps.maps)","(incarnation, e469be475b0db689)"

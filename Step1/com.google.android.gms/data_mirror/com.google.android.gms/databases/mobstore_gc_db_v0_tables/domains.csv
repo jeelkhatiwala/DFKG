@@ -1,0 +1,2 @@
+PID,DN,DP,TN,RL,domain_id,created,last_update,name
+"(PID, com.google.android.gms)","(DN, mobstore_gc_db_v0)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data_mirror/data_ce/null/0/com.google.android.gms/databases/mobstore_gc_db_v0)","(TN, domains)","(RL, 1)","(domain_id, 1)","(created, 1617476971884)","(last_update, 1617476971884)","(name, autofill_cached_data_source_data)"

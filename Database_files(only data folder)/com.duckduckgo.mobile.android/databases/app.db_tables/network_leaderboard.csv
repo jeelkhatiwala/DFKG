@@ -1,3 +1,0 @@
-Package Name,Original Database Name,Original Path of Database,Table Name,Line ID,networkName,count
-"(Package Name, com.duckduckgo.mobile.android)","(Original Database Name, app.db)","(Original Path of Database, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.duckduckgo.mobile.android/databases/app.db)","(Table Name, network_leaderboard)","(Line ID, 1)","(networkName, Google LLC)","(count, 29)"
-"(Package Name, com.duckduckgo.mobile.android)","(Original Database Name, app.db)","(Original Path of Database, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.duckduckgo.mobile.android/databases/app.db)","(Table Name, network_leaderboard)","(Line ID, 2)","(networkName, Facebook, Inc.)","(count, 2)"

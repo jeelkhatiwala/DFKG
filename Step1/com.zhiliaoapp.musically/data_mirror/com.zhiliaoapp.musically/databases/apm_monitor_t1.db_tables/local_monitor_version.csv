@@ -1,0 +1,2 @@
+PID,DN,DP,TN,RL,_id,version_code,version_name,manifest_version_code,update_version_code,app_version,extra1,extra2
+"(PID, com.zhiliaoapp.musically)","(DN, apm_monitor_t1.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data_mirror/data_ce/null/0/com.zhiliaoapp.musically/databases/apm_monitor_t1.db)","(TN, local_monitor_version)","(RL, 1)","(_id, 1)","(version_code, 2021808410)","(version_name, 18.8.41)","(manifest_version_code, 2021808410)","(update_version_code, 2021808410)","(app_version, 18.8.41)","(extra1, None)","(extra2, None)"

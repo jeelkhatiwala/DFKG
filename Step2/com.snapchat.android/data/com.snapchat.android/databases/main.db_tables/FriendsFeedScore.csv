@@ -1,0 +1,4 @@
+PID,DN,DP,TN,RL,_id,feedRowId,score,prevInteractionAgeSecs
+"(PID, com.snapchat.android)","(DN, main.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.snapchat.android/databases/main.db)","(TN, FriendsFeedScore)","(RL, 1)","(_id, 154)","(feedRowId, 1)","(score, -307690556.0)","(prevInteractionAgeSecs, None)"
+"(PID, com.snapchat.android)","(DN, main.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.snapchat.android/databases/main.db)","(TN, FriendsFeedScore)","(RL, 2)","(_id, 155)","(feedRowId, 2)","(score, -4450640173.0)","(prevInteractionAgeSecs, None)"
+"(PID, com.snapchat.android)","(DN, main.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.snapchat.android/databases/main.db)","(TN, FriendsFeedScore)","(RL, 3)","(_id, 156)","(feedRowId, 3)","(score, -8162515689.0)","(prevInteractionAgeSecs, None)"

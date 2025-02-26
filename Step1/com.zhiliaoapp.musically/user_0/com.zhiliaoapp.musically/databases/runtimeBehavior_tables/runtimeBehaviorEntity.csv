@@ -1,0 +1,3 @@
+PID,DN,DP,TN,RL,id,type,time,msg
+"(PID, com.zhiliaoapp.musically)","(DN, runtimeBehavior)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.zhiliaoapp.musically/databases/runtimeBehavior)","(TN, runtimeBehaviorEntity)","(RL, 1)","(id, 48)","(type, block)","(time, 1626375452614)","(msg, )"
+"(PID, com.zhiliaoapp.musically)","(DN, runtimeBehavior)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.zhiliaoapp.musically/databases/runtimeBehavior)","(TN, runtimeBehaviorEntity)","(RL, 2)","(id, 49)","(type, block)","(time, 1626375499989)","(msg, )"

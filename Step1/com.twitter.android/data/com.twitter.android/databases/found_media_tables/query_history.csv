@@ -1,0 +1,6 @@
+PID,DN,DP,TN,RL,query,timestamp
+"(PID, com.twitter.android)","(DN, found_media)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.twitter.android/databases/found_media)","(TN, query_history)","(RL, 1)","(query, crying)","(timestamp, 1623900701673)"
+"(PID, com.twitter.android)","(DN, found_media)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.twitter.android/databases/found_media)","(TN, query_history)","(RL, 2)","(query, sad)","(timestamp, 1623900734220)"
+"(PID, com.twitter.android)","(DN, found_media)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.twitter.android/databases/found_media)","(TN, query_history)","(RL, 3)","(query, i will be there)","(timestamp, 1625114199563)"
+"(PID, com.twitter.android)","(DN, found_media)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.twitter.android/databases/found_media)","(TN, query_history)","(RL, 4)","(query, i will be there too)","(timestamp, 1625114125028)"
+"(PID, com.twitter.android)","(DN, found_media)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.twitter.android/databases/found_media)","(TN, query_history)","(RL, 5)","(query, are you ready?)","(timestamp, 1626731604861)"

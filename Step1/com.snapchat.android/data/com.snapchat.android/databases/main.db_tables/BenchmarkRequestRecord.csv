@@ -1,0 +1,2 @@
+PID,DN,DP,TN,RL,_id,benchmarkId,expirationTsSec,hasBeenScheduled,benchmarkResult
+"(PID, com.snapchat.android)","(DN, main.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.snapchat.android/databases/main.db)","(TN, BenchmarkRequestRecord)","(RL, 1)","(_id, 1)","(benchmarkId, 18)","(expirationTsSec, 1619212865)","(hasBeenScheduled, 0)","(benchmarkResult, None)"

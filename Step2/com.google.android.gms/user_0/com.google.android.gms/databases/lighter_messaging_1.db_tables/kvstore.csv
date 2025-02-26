@@ -1,0 +1,2 @@
+PID,DN,DP,TN,RL,key,value
+"(PID, com.google.android.gms)","(DN, lighter_messaging_1.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.google.android.gms/databases/lighter_messaging_1.db)","(TN, kvstore)","(RL, 1)","(key, LAST_SERVER_BOOTSTRAP_CHECK_TIMESTAMP_KEY)","(value, AAABenfcnkA=)"

@@ -1,0 +1,4 @@
+PID,DN,DP,TN,RL,surveyId,triggerCount
+"(PID, com.reddit.frontpage)","(DN, reddit_db_EducationalStaff7824)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.reddit.frontpage/databases/reddit_db_EducationalStaff7824)","(TN, survey_status)","(RL, 1)","(surveyId, nps_survey_scroll_trigger)","(triggerCount, 1)"
+"(PID, com.reddit.frontpage)","(DN, reddit_db_EducationalStaff7824)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.reddit.frontpage/databases/reddit_db_EducationalStaff7824)","(TN, survey_status)","(RL, 2)","(surveyId, survey_demo_nps_1)","(triggerCount, 1)"
+"(PID, com.reddit.frontpage)","(DN, reddit_db_EducationalStaff7824)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.reddit.frontpage/databases/reddit_db_EducationalStaff7824)","(TN, survey_status)","(RL, 3)","(surveyId, survey_demo_csat_1)","(triggerCount, 2)"

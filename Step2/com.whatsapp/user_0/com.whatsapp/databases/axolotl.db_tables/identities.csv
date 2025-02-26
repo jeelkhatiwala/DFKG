@@ -1,0 +1,2 @@
+PID,DN,DP,TN,RL,_id,recipient_id,device_id,registration_id,public_key,private_key,next_prekey_id,timestamp
+"(PID, com.whatsapp)","(DN, axolotl.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.whatsapp/databases/axolotl.db)","(TN, identities)","(RL, 1)","(_id, 1)","(recipient_id, -1)","(device_id, 0)","(registration_id, 1215850067)","(public_key, BXV6Qr5lK4/jLHCxDO8ZI0k80n3pRT4tuSNUGRKCfYID)","(private_key, cNFtZvs8PQQA67VP3m7iNDjpRfx07ME7ozEf7EfCUl8=)","(next_prekey_id, 5569978)","(timestamp, 1617502944)"

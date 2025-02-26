@@ -1,0 +1,2 @@
+PID,DN,DP,TN,RL,name,seq
+"(PID, com.snapchat.android)","(DN, cognac)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.snapchat.android/databases/cognac)","(TN, sqlite_sequence)","(RL, 1)","(name, AppLocalState)","(seq, 46)"

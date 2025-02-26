@@ -1,0 +1,2 @@
+PID,DN,DP,TN,RL,name,work_spec_id
+"(PID, com.upside.consumer.android)","(DN, androidx.work.workdb)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.upside.consumer.android/no_backup/androidx.work.workdb)","(TN, WorkName)","(RL, 1)","(name, InactiveUserGeofenceSetupWork)","(work_spec_id, 5a2926ac-efe2-43bf-8ae7-08e53158fc9e)"

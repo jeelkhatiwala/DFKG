@@ -1,0 +1,4 @@
+PID,DN,DP,TN,RL,key,value
+"(PID, app.greyshirts.sslcapture)","(DN, Web Data)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data_mirror/data_ce/null/0/app.greyshirts.sslcapture/app_webview/Default/Web Data)","(TN, meta)","(RL, 1)","(key, mmap_status)","(value, -1)"
+"(PID, app.greyshirts.sslcapture)","(DN, Web Data)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data_mirror/data_ce/null/0/app.greyshirts.sslcapture/app_webview/Default/Web Data)","(TN, meta)","(RL, 2)","(key, last_compatible_version)","(value, 79)"
+"(PID, app.greyshirts.sslcapture)","(DN, Web Data)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data_mirror/data_ce/null/0/app.greyshirts.sslcapture/app_webview/Default/Web Data)","(TN, meta)","(RL, 3)","(key, version)","(value, 92)"

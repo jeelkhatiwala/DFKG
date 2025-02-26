@@ -1,0 +1,4 @@
+PID,DN,DP,TN,RL,_id,contact_id,data_id,phone,label,type,score
+"(PID, com.google.android.gms)","(DN, icing_contacts.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.google.android.gms/databases/icing_contacts.db)","(TN, phones)","(RL, 1)","(_id, 1)","(contact_id, 1)","(data_id, 2)","(phone, 411)","(label, Mobile)","(type, 2)","(score, 2)"
+"(PID, com.google.android.gms)","(DN, icing_contacts.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.google.android.gms/databases/icing_contacts.db)","(TN, phones)","(RL, 2)","(_id, 2)","(contact_id, 2)","(data_id, 4)","(phone, 611)","(label, Mobile)","(type, 2)","(score, 2)"
+"(PID, com.google.android.gms)","(DN, icing_contacts.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.google.android.gms/databases/icing_contacts.db)","(TN, phones)","(RL, 3)","(_id, 3)","(contact_id, 3)","(data_id, 6)","(phone, +18056377243)","(label, Mobile)","(type, 2)","(score, 2)"

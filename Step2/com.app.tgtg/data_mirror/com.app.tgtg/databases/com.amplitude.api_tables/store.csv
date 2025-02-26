@@ -1,0 +1,3 @@
+PID,DN,DP,TN,RL,key,value
+"(PID, com.app.tgtg)","(DN, com.amplitude.api)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data_mirror/data_ce/null/0/com.app.tgtg/databases/com.amplitude.api)","(TN, store)","(RL, 1)","(key, device_id)","(value, 9cdb529f-337c-40f4-9442-d544df2070edR)"
+"(PID, com.app.tgtg)","(DN, com.amplitude.api)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data_mirror/data_ce/null/0/com.app.tgtg/databases/com.amplitude.api)","(TN, store)","(RL, 2)","(key, user_id)","(value, 54279284)"

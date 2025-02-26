@@ -1,0 +1,3 @@
+PID,DN,DP,TN,RL,item_stable_id,key,value,value_type
+"(PID, com.google.android.apps.docs)","(DN, cello.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.google.android.apps.docs/app_cello/heisenbergcarro@gmail.com/cello.db)","(TN, item_properties)","(RL, 1)","(item_stable_id, 101)","(key, DriveCore:localId)","(value, gf0xzY1Odoo0w8Kvnq22l59NCO5a9b5JubqNplR95kJwoj0eVL54y8RROJuW)","(value_type, 3)"
+"(PID, com.google.android.apps.docs)","(DN, cello.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.google.android.apps.docs/app_cello/heisenbergcarro@gmail.com/cello.db)","(TN, item_properties)","(RL, 2)","(item_stable_id, 101)","(key, version-counter)","(value, 5)","(value_type, 2)"

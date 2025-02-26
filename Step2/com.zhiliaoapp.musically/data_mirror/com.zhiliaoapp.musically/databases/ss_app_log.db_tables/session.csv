@@ -1,0 +1,2 @@
+PID,DN,DP,TN,RL,_id,value,timestamp,duration,non_page,app_version,version_code,pausetime,launch_sent,event_index
+"(PID, com.zhiliaoapp.musically)","(DN, ss_app_log.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data_mirror/data_ce/null/0/com.zhiliaoapp.musically/databases/ss_app_log.db)","(TN, session)","(RL, 1)","(_id, 2063)","(value, 98941458-dc8e-4a5e-a93d-42180c4e6050)","(timestamp, 1626978592992)","(duration, 0)","(non_page, 1)","(app_version, 20.0.5)","(version_code, 2022000050)","(pausetime, None)","(launch_sent, 0)","(event_index, 0)"

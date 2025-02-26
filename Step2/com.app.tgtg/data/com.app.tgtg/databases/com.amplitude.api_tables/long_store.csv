@@ -1,0 +1,7 @@
+PID,DN,DP,TN,RL,key,value
+"(PID, com.app.tgtg)","(DN, com.amplitude.api)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.app.tgtg/databases/com.amplitude.api)","(TN, long_store)","(RL, 1)","(key, last_identify_id)","(value, 4)"
+"(PID, com.app.tgtg)","(DN, com.amplitude.api)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.app.tgtg/databases/com.amplitude.api)","(TN, long_store)","(RL, 2)","(key, sequence_number)","(value, 63)"
+"(PID, com.app.tgtg)","(DN, com.amplitude.api)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.app.tgtg/databases/com.amplitude.api)","(TN, long_store)","(RL, 3)","(key, last_event_id)","(value, 59)"
+"(PID, com.app.tgtg)","(DN, com.amplitude.api)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.app.tgtg/databases/com.amplitude.api)","(TN, long_store)","(RL, 4)","(key, opt_out)","(value, 0)"
+"(PID, com.app.tgtg)","(DN, com.amplitude.api)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.app.tgtg/databases/com.amplitude.api)","(TN, long_store)","(RL, 5)","(key, previous_session_id)","(value, 1624653881697)"
+"(PID, com.app.tgtg)","(DN, com.amplitude.api)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.app.tgtg/databases/com.amplitude.api)","(TN, long_store)","(RL, 6)","(key, last_event_time)","(value, 1624653885203)"

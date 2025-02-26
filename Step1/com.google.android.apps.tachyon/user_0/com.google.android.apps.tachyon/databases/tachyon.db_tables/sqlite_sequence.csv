@@ -1,0 +1,4 @@
+PID,DN,DP,TN,RL,name,seq
+"(PID, com.google.android.apps.tachyon)","(DN, tachyon.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.google.android.apps.tachyon/databases/tachyon.db)","(TN, sqlite_sequence)","(RL, 1)","(name, duo_users)","(seq, 8)"
+"(PID, com.google.android.apps.tachyon)","(DN, tachyon.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.google.android.apps.tachyon/databases/tachyon.db)","(TN, sqlite_sequence)","(RL, 2)","(name, duo_user_properties)","(seq, 2)"
+"(PID, com.google.android.apps.tachyon)","(DN, tachyon.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/user/0/com.google.android.apps.tachyon/databases/tachyon.db)","(TN, sqlite_sequence)","(RL, 3)","(name, duo_registrations)","(seq, 7)"

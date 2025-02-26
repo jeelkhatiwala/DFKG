@@ -1,0 +1,5 @@
+PID,DN,DP,TN,RL,tbl,idx,stat
+"(PID, com.google.android.apps.photos)","(DN, disk_cache)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.google.android.apps.photos/databases/disk_cache)","(TN, sqlite_stat1)","(RL, 1)","(tbl, size)","(idx, None)","(stat, 1)"
+"(PID, com.google.android.apps.photos)","(DN, disk_cache)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.google.android.apps.photos/databases/disk_cache)","(TN, sqlite_stat1)","(RL, 2)","(tbl, journal)","(idx, journal_timestamp_key_idx)","(stat, 391 5 1)"
+"(PID, com.google.android.apps.photos)","(DN, disk_cache)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.google.android.apps.photos/databases/disk_cache)","(TN, sqlite_stat1)","(RL, 3)","(tbl, journal)","(idx, sqlite_autoindex_journal_1)","(stat, 391 1)"
+"(PID, com.google.android.apps.photos)","(DN, disk_cache)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.google.android.apps.photos/databases/disk_cache)","(TN, sqlite_stat1)","(RL, 4)","(tbl, android_metadata)","(idx, None)","(stat, 1)"

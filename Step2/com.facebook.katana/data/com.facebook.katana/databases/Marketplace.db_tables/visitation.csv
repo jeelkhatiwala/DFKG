@@ -1,0 +1,2 @@
+PID,DN,DP,TN,RL,timestamp,event
+"(PID, com.facebook.katana)","(DN, Marketplace.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data/data/com.facebook.katana/databases/Marketplace.db)","(TN, visitation)","(RL, 1)","(timestamp, 1619375277)","(event, 2)"

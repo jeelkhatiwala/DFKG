@@ -1,0 +1,2 @@
+PID,DN,DP,TN,RL,CONFIG_KEY,CONFIG_VALUE,CONFIG_LAST_UPDATED
+"(PID, com.snapchat.android)","(DN, contentManagerDb.db)","(DP, /home/kali/Desktop/RA/Heisenberg Android/Dump/data_mirror/data_ce/null/0/com.snapchat.android/databases/contentManagerDb.db)","(TN, GLOBAL_CONFIG_V2_TABLE)","(RL, 1)","(CONFIG_KEY, REPORT_METRICS_DAY)","(CONFIG_VALUE, MjAyMS03LTE0)","(CONFIG_LAST_UPDATED, 1626288029584)"
